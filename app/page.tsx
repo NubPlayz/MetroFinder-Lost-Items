@@ -21,6 +21,7 @@ export default function Home() {
   const [line, setLine] = useState("");
   const [page, setPage] = useState(1);
   const [totalPages, setTotalPages] = useState(1);
+  const [currentState, setCurrentState] = useState('NOT_STARTED')
 
   const [results, setResults] = useState<LostItem[]>([]);
 
@@ -34,15 +35,22 @@ export default function Home() {
     params.append("page", pageNumber.toString());
 
     try {
+      setCurrentState("LOADING");
       const res = await fetch(`/api/items?${params.toString()}`);
       const data = await res.json();
 
-
+      setCurrentState(()=>{
+        if(data.filteredItems1.length == 0) {
+          return "NO_RESULT"
+        }
+        return "LOADED"
+      })
       setResults(data.filteredItems1 || []);
       setTotalPages(data.totalPages || 1);
     } catch (error) {
       console.error("Search failed:", error);
       setResults([]);
+      setCurrentState("ERROR")
     }
   }
 
@@ -65,7 +73,6 @@ export default function Home() {
 
       <main className="main">
         <div className="searchbox" onKeyDown={handleKeyDown}>
-
           <div className="detail">
             <input
               type="text"
