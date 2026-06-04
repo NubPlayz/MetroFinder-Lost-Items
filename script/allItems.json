@@ -18,6 +18,60 @@
     "receiving_time": "12:18:00"
   },
   {
+    "id": 24698,
+    "item_name": "WALLET WITH",
+    "description": "VOTER ID OF DHARMENDRA MISHRA",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-05-27",
+    "receiving_time": "15:00:00"
+  },
+  {
+    "id": 24699,
+    "item_name": "EARBUD CASE WITH",
+    "description": "SINGLE EARBUD",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 21",
+    "receiving_date": "2026-05-27",
+    "receiving_time": "21:00:00"
+  },
+  {
+    "id": 24700,
+    "item_name": "WRIST WATCH",
+    "description": "WRIST WATCH",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 21",
+    "receiving_date": "2026-05-27",
+    "receiving_time": "21:00:00"
+  },
+  {
+    "id": 24703,
+    "item_name": "EARBUD CASE WITH",
+    "description": "EARBUDS",
+    "quantity": "1",
+    "station": "CHAWRI BAZAR",
+    "receiving_date": "2026-05-27",
+    "receiving_time": "13:05:00"
+  },
+  {
+    "id": 24704,
+    "item_name": "DL WITH",
+    "description": "BANK PASSBOOK, AADHAAR CARD, PAN CARD OF NANDU SINGH",
+    "quantity": "1",
+    "station": "CHAWRI BAZAR",
+    "receiving_date": "2026-05-27",
+    "receiving_time": "13:05:00"
+  },
+  {
+    "id": 24706,
+    "item_name": "POCKET WATCH",
+    "description": "POCKET WATCH",
+    "quantity": "1",
+    "station": "JANAKPURI WEST",
+    "receiving_date": "2026-05-27",
+    "receiving_time": "16:00:00"
+  },
+  {
     "id": 24629,
     "item_name": "MANGALSUTRA",
     "description": "MANGALSUTRA",
@@ -43,6 +97,69 @@
     "station": "TIKRI BORDER",
     "receiving_date": "2026-05-26",
     "receiving_time": "20:30:00"
+  },
+  {
+    "id": 24697,
+    "item_name": "WALLET WITH",
+    "description": "CASH, AADHAAR CARD OF ANAND RAJ",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-05-26",
+    "receiving_time": "20:00:00"
+  },
+  {
+    "id": 24701,
+    "item_name": "LUNCH BAG WITH",
+    "description": "LUNCH BOXES",
+    "quantity": "1",
+    "station": "VIDHAN SABHA",
+    "receiving_date": "2026-05-26",
+    "receiving_time": "09:30:00"
+  },
+  {
+    "id": 24702,
+    "item_name": "EARBUD CASE WITH",
+    "description": "EARBUDS",
+    "quantity": "1",
+    "station": "NEHRU ENCLAVE",
+    "receiving_date": "2026-05-26",
+    "receiving_time": "21:00:00"
+  },
+  {
+    "id": 24707,
+    "item_name": "PILLOW WITH",
+    "description": "SANDAL PAIR,  WATER BOTTLE, CD",
+    "quantity": "1",
+    "station": "NOIDA SECTOR-18",
+    "receiving_date": "2026-05-26",
+    "receiving_time": "08:45:00"
+  },
+  {
+    "id": 24708,
+    "item_name": "UMBRELLA",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "SUBHASH NAGAR",
+    "receiving_date": "2026-05-26",
+    "receiving_time": "20:20:00"
+  },
+  {
+    "id": 24709,
+    "item_name": "EARBUDS WITH",
+    "description": "CASE",
+    "quantity": "1",
+    "station": "SIKANDERPUR",
+    "receiving_date": "2026-05-26",
+    "receiving_time": "21:00:00"
+  },
+  {
+    "id": 24710,
+    "item_name": "UMBRELLA WITH",
+    "description": "EARBUD WITH CASE",
+    "quantity": "1",
+    "station": "SIKANDERPUR",
+    "receiving_date": "2026-05-26",
+    "receiving_time": "23:39:00"
   },
   {
     "id": 24673,
@@ -88,6 +205,15 @@
     "station": "AZADPUR",
     "receiving_date": "2026-05-25",
     "receiving_time": "12:20:00"
+  },
+  {
+    "id": 24705,
+    "item_name": "UMBRELLA WITH",
+    "description": "EARBUDS WITH CASE, LADIES WATCH",
+    "quantity": "1",
+    "station": "PALAM",
+    "receiving_date": "2026-05-25",
+    "receiving_time": "13:05:00"
   },
   {
     "id": 24638,
@@ -199402,131 +199528,5 @@
     "station": "VIDHAN SABHA",
     "receiving_date": "2022-05-04",
     "receiving_time": "20:10:00"
-  },
-  {
-    "id": 2071,
-    "item_name": "PURSE",
-    "description": "DOCUMENTS OF GURDEEP SINGH",
-    "quantity": "1",
-    "station": "KASHMERE GATE",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "12:05:00"
-  },
-  {
-    "id": 1989,
-    "item_name": "BAG",
-    "description": "UMBRELLA THERMUS",
-    "quantity": null,
-    "station": "AKSHARDHAM",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "21:50:00"
-  },
-  {
-    "id": 1993,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "DWARKA SECTOR - 21",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "19:30:00"
-  },
-  {
-    "id": 1994,
-    "item_name": "SHOES",
-    "description": "",
-    "quantity": null,
-    "station": "SULTANPUR",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "11:30:00"
-  },
-  {
-    "id": 1996,
-    "item_name": "BAG EMPTY",
-    "description": "",
-    "quantity": null,
-    "station": "SAROJINI NAGAR",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "18:44:00"
-  },
-  {
-    "id": 1997,
-    "item_name": "EARBUDS",
-    "description": "",
-    "quantity": null,
-    "station": "DHAULA KUAN",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "21:30:00"
-  },
-  {
-    "id": 1998,
-    "item_name": "POLY BAG",
-    "description": "CLOTHS",
-    "quantity": null,
-    "station": "UDYOG NAGAR",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "10:50:00"
-  },
-  {
-    "id": 2002,
-    "item_name": "BAG",
-    "description": "CLOTHS",
-    "quantity": null,
-    "station": "IFFCO CHOWK",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "19:30:00"
-  },
-  {
-    "id": 2003,
-    "item_name": "PENDRIVE",
-    "description": "",
-    "quantity": null,
-    "station": "TILAK NAGAR",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "12:45:00"
-  },
-  {
-    "id": 2004,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "DWARKA MOR",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "10:30:00"
-  },
-  {
-    "id": 2005,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "SAMAYPUR BADLI",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "10:25:00"
-  },
-  {
-    "id": 2009,
-    "item_name": "CLOTH",
-    "description": "",
-    "quantity": null,
-    "station": "SHAHDARA",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "11:09:00"
-  },
-  {
-    "id": 2010,
-    "item_name": "CLOTH",
-    "description": "",
-    "quantity": null,
-    "station": "SHAHDARA",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "11:09:00"
-  },
-  {
-    "id": 2019,
-    "item_name": "POLYBAG",
-    "description": "UMBRELLA & CLOTHE",
-    "quantity": null,
-    "station": "JAMA MASJID",
-    "receiving_date": "2022-05-04",
-    "receiving_time": "22:30:00"
   }
 ]
