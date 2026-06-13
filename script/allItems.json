@@ -1,5 +1,14 @@
 [
   {
+    "id": 24832,
+    "item_name": "LADIES PURSE WITH",
+    "description": "SINGLE ANKLET, CASH",
+    "quantity": "1",
+    "station": "KALKAJI MANDIR",
+    "receiving_date": "2026-06-09",
+    "receiving_time": "20:57:00"
+  },
+  {
     "id": 24802,
     "item_name": "BRACELET",
     "description": "BRACELET",
@@ -16,6 +25,78 @@
     "station": "DELHI CANTT.",
     "receiving_date": "2026-06-06",
     "receiving_time": "13:30:00"
+  },
+  {
+    "id": 24835,
+    "item_name": "BOX WITH",
+    "description": "THREADS",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 21",
+    "receiving_date": "2026-06-05",
+    "receiving_time": "10:30:00"
+  },
+  {
+    "id": 24838,
+    "item_name": "WALLET WITH",
+    "description": "PAN, DL, BANK CARDS, AADHAAR OF  MR.CP BALAKRISHNA/ MS.SARADA AMMA, CASH",
+    "quantity": "1",
+    "station": "PRATAP NAGAR",
+    "receiving_date": "2026-06-05",
+    "receiving_time": "00:10:00"
+  },
+  {
+    "id": 24830,
+    "item_name": "LUNCH BAG WITH",
+    "description": "BOXES, EMPTY EARBUD CASE, EMPTY GLASSES CASE",
+    "quantity": "1",
+    "station": "UTTAM NAGAR EAST",
+    "receiving_date": "2026-06-05",
+    "receiving_time": "12:30:00"
+  },
+  {
+    "id": 24831,
+    "item_name": "SPECTACLES",
+    "description": "SPECTACLES",
+    "quantity": "1",
+    "station": "VASANT VIHAR",
+    "receiving_date": "2026-06-05",
+    "receiving_time": "21:19:00"
+  },
+  {
+    "id": 24833,
+    "item_name": "POLYTHENE WITH",
+    "description": "LADIES TOP",
+    "quantity": "1",
+    "station": "RAJIV CHOWK",
+    "receiving_date": "2026-06-04",
+    "receiving_time": "08:16:00"
+  },
+  {
+    "id": 24834,
+    "item_name": "PASSPORT OF KUNDAN KUMAR",
+    "description": "PASSPORT OF KUNDAN KUMAR",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-06-04",
+    "receiving_time": "11:20:00"
+  },
+  {
+    "id": 24836,
+    "item_name": "BOX WITH",
+    "description": "BOOSTER PUMP",
+    "quantity": "1",
+    "station": "HAIDERPUR BADLI MOR",
+    "receiving_date": "2026-06-04",
+    "receiving_time": "17:30:00"
+  },
+  {
+    "id": 24837,
+    "item_name": "GENTS WALLET WITH",
+    "description": "BANK CARD OF AMAN YADAV",
+    "quantity": "1",
+    "station": "HAIDERPUR BADLI MOR",
+    "receiving_date": "2026-06-04",
+    "receiving_time": "23:00:00"
   },
   {
     "id": 24804,
@@ -400,7 +481,7 @@
     "item_name": "SPECTACLES WITH",
     "description": "COVER",
     "quantity": "1",
-    "station": "JAGATPUR VILLAGE",
+    "station": "JAGATPUR-WAZIRABAD",
     "receiving_date": "2026-06-01",
     "receiving_time": "20:30:00"
   },
@@ -7321,7 +7402,7 @@
     "item_name": "PURSE WITH",
     "description": "CASH",
     "quantity": "1",
-    "station": "JAGATPUR VILLAGE",
+    "station": "JAGATPUR-WAZIRABAD",
     "receiving_date": "2026-04-04",
     "receiving_time": "11:25:00"
   },
@@ -10264,7 +10345,7 @@
     "item_name": "BAG WITH",
     "description": "BOOK, SKETCH BOOK, STORY BOOK, NOTE BOOK, T-SHIRT, WATER BOTTLE, CREAM BOTTLE, LUNCH BOX, EMPTY POUCH, SOFT TOY, STATIONARY POUCH, MASK, SKETCH PEN SET",
     "quantity": "1",
-    "station": "JAGATPUR VILLAGE",
+    "station": "JAGATPUR-WAZIRABAD",
     "receiving_date": "2026-03-08",
     "receiving_time": "18:06:00"
   },
@@ -199447,86 +199528,5 @@
     "station": "NEW DELHI (Yellow & Airport Line)",
     "receiving_date": "2022-05-11",
     "receiving_time": "20:30:00"
-  },
-  {
-    "id": 2145,
-    "item_name": "SLEEPING BAG",
-    "description": "",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-05-11",
-    "receiving_time": "22:30:00"
-  },
-  {
-    "id": 2146,
-    "item_name": "machine",
-    "description": "",
-    "quantity": null,
-    "station": "KAROL BAGH",
-    "receiving_date": "2022-05-11",
-    "receiving_time": "00:40:00"
-  },
-  {
-    "id": 2147,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "NETAJI SUBHASH PLACE",
-    "receiving_date": "2022-05-11",
-    "receiving_time": "17:50:00"
-  },
-  {
-    "id": 2148,
-    "item_name": "CARRY BAG",
-    "description": "GPF passbook socks",
-    "quantity": null,
-    "station": "HAUZ KHAS",
-    "receiving_date": "2022-05-11",
-    "receiving_time": "16:30:00"
-  },
-  {
-    "id": 2150,
-    "item_name": "BAG",
-    "description": "cloths cash goggles",
-    "quantity": null,
-    "station": "KASHMERE GATE",
-    "receiving_date": "2022-05-11",
-    "receiving_time": "15:45:00"
-  },
-  {
-    "id": 2153,
-    "item_name": "WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "DWARKA SECTOR - 10",
-    "receiving_date": "2022-05-11",
-    "receiving_time": "07:30:00"
-  },
-  {
-    "id": 2155,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "DWARKA SECTOR - 14",
-    "receiving_date": "2022-05-11",
-    "receiving_time": "20:00:00"
-  },
-  {
-    "id": 2157,
-    "item_name": "TRIPOD",
-    "description": "",
-    "quantity": null,
-    "station": "NOIDA ELECTRONIC CITY",
-    "receiving_date": "2022-05-11",
-    "receiving_time": "22:20:00"
-  },
-  {
-    "id": 2160,
-    "item_name": "CARRY BAG",
-    "description": "CLOTHS SHOES SANDLE",
-    "quantity": null,
-    "station": "SHAHDARA",
-    "receiving_date": "2022-05-11",
-    "receiving_time": "19:00:00"
   }
 ]
