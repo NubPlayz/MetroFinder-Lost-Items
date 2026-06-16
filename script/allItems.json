@@ -27,6 +27,33 @@
     "receiving_time": "16:15:00"
   },
   {
+    "id": 24858,
+    "item_name": "POLYBAG WITH",
+    "description": "BELT, HAIR BAND",
+    "quantity": "1",
+    "station": "VISHWAVIDYALAYA",
+    "receiving_date": "2026-06-08",
+    "receiving_time": "00:15:00"
+  },
+  {
+    "id": 24859,
+    "item_name": "WRIST WATCH",
+    "description": "WRIST WATCH",
+    "quantity": "1",
+    "station": "VISHWAVIDYALAYA",
+    "receiving_date": "2026-06-08",
+    "receiving_time": "16:00:00"
+  },
+  {
+    "id": 24864,
+    "item_name": "LUNCH BAG WITH",
+    "description": "BOXES",
+    "quantity": "1",
+    "station": "PALAM",
+    "receiving_date": "2026-06-08",
+    "receiving_time": "16:00:00"
+  },
+  {
     "id": 24802,
     "item_name": "BRACELET",
     "description": "BRACELET",
@@ -34,6 +61,42 @@
     "station": "TERMINAL 1-IGI AIRPORT",
     "receiving_date": "2026-06-08",
     "receiving_time": "13:30:00"
+  },
+  {
+    "id": 24854,
+    "item_name": "WALLET WITH",
+    "description": "DL, RC, PAN CARD, VOTER ID, BANK CARDS OF DYAGA LAVANYA, BASNI SURYAPRAKASH",
+    "quantity": "1",
+    "station": "BOTANICAL GARDEN",
+    "receiving_date": "2026-06-07",
+    "receiving_time": "16:00:00"
+  },
+  {
+    "id": 24855,
+    "item_name": "BACKPACK BAG WITH",
+    "description": "OLD CLOTHES, WATER BOTTLE",
+    "quantity": "1",
+    "station": "KALKAJI MANDIR",
+    "receiving_date": "2026-06-07",
+    "receiving_time": "20:57:00"
+  },
+  {
+    "id": 24857,
+    "item_name": "LADIES PURSE WITH",
+    "description": "KEYS, METRO CARD",
+    "quantity": "1",
+    "station": "SAROJINI NAGAR",
+    "receiving_date": "2026-06-07",
+    "receiving_time": "23:50:00"
+  },
+  {
+    "id": 24862,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "KAROL BAGH",
+    "receiving_date": "2026-06-07",
+    "receiving_time": "08:30:00"
   },
   {
     "id": 24840,
@@ -117,6 +180,24 @@
     "receiving_time": "21:15:00"
   },
   {
+    "id": 24861,
+    "item_name": "POLYBAG WITH",
+    "description": "T-SHIRT",
+    "quantity": "1",
+    "station": "PATEL CHOWK",
+    "receiving_date": "2026-06-06",
+    "receiving_time": "23:10:00"
+  },
+  {
+    "id": 24865,
+    "item_name": "BAG WITH",
+    "description": "PURSE WITH METRO CARD, PAN CARD, BANK CARDS OF MS. MANISHA/MR. AAKASH, MOBILE CHARGER",
+    "quantity": "1",
+    "station": "LAXMI NAGAR",
+    "receiving_date": "2026-06-06",
+    "receiving_time": "09:00:00"
+  },
+  {
     "id": 24765,
     "item_name": "LADIES SLING BAG WITH",
     "description": "ORNAMENTS, CASH",
@@ -171,6 +252,33 @@
     "receiving_time": "10:00:00"
   },
   {
+    "id": 24853,
+    "item_name": "MOBILE PHONE",
+    "description": "MOBILE PHONE",
+    "quantity": "1",
+    "station": "JAHANGIRPURI",
+    "receiving_date": "2026-06-05",
+    "receiving_time": "16:00:00"
+  },
+  {
+    "id": 24856,
+    "item_name": "MOBILE PHONE",
+    "description": "MOBILE PHONE",
+    "quantity": "1",
+    "station": "CHHATARPUR",
+    "receiving_date": "2026-06-05",
+    "receiving_time": "19:13:00"
+  },
+  {
+    "id": 24860,
+    "item_name": "LADIES WRIST WATCH",
+    "description": "LADIES WRIST WATCH",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-06-05",
+    "receiving_time": "13:50:00"
+  },
+  {
     "id": 24830,
     "item_name": "LUNCH BAG WITH",
     "description": "BOXES, EMPTY EARBUD CASE, EMPTY GLASSES CASE",
@@ -223,6 +331,15 @@
     "station": "HAIDERPUR BADLI MOR",
     "receiving_date": "2026-06-04",
     "receiving_time": "23:00:00"
+  },
+  {
+    "id": 24863,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "JANAKPURI WEST",
+    "receiving_date": "2026-06-04",
+    "receiving_time": "13:45:00"
   },
   {
     "id": 24804,
@@ -199411,122 +199528,5 @@
     "station": "RAJA NAHAR SINGH (BALLABHGARH)",
     "receiving_date": "2022-05-13",
     "receiving_time": "19:00:00"
-  },
-  {
-    "id": 2169,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "KASHMERE GATE",
-    "receiving_date": "2022-05-13",
-    "receiving_time": "14:00:00"
-  },
-  {
-    "id": 2170,
-    "item_name": "BAG",
-    "description": "SUNGLASS AADHAR PAN CHAREGER OF SURAJ KUMAR",
-    "quantity": null,
-    "station": "SEELAMPUR",
-    "receiving_date": "2022-05-13",
-    "receiving_time": "21:30:00"
-  },
-  {
-    "id": 2175,
-    "item_name": "EARPHONE",
-    "description": "",
-    "quantity": null,
-    "station": "VAISHALI",
-    "receiving_date": "2022-05-13",
-    "receiving_time": "20:00:00"
-  },
-  {
-    "id": 2176,
-    "item_name": "JUTE BAG",
-    "description": "LUNCH BOX",
-    "quantity": null,
-    "station": "RAJ BAGH",
-    "receiving_date": "2022-05-13",
-    "receiving_time": "12:00:00"
-  },
-  {
-    "id": 2179,
-    "item_name": "HELMET",
-    "description": "",
-    "quantity": null,
-    "station": "AIRPORT (T-3)",
-    "receiving_date": "2022-05-13",
-    "receiving_time": "19:40:00"
-  },
-  {
-    "id": 2181,
-    "item_name": "SLEEPING BAG",
-    "description": "CLOTS",
-    "quantity": null,
-    "station": "AIRPORT (T-3)",
-    "receiving_date": "2022-05-13",
-    "receiving_time": "19:40:00"
-  },
-  {
-    "id": 2183,
-    "item_name": "BAG",
-    "description": "SLEEPERS CAP CLOTHS",
-    "quantity": null,
-    "station": "SUBHASH NAGAR",
-    "receiving_date": "2022-05-13",
-    "receiving_time": "23:30:00"
-  },
-  {
-    "id": 2184,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "DWARKA SECTOR - 14",
-    "receiving_date": "2022-05-13",
-    "receiving_time": "09:10:00"
-  },
-  {
-    "id": 2185,
-    "item_name": "CARD HOLDER",
-    "description": "BANK CARDS OF PARUL",
-    "quantity": null,
-    "station": "DWARKA SECTOR - 12",
-    "receiving_date": "2022-05-13",
-    "receiving_time": "10:40:00"
-  },
-  {
-    "id": 2186,
-    "item_name": "BAG",
-    "description": "T SHIRTS JEANS",
-    "quantity": null,
-    "station": "JANAKPURI WEST",
-    "receiving_date": "2022-05-13",
-    "receiving_time": "17:40:00"
-  },
-  {
-    "id": 2194,
-    "item_name": "UMBRELLA",
-    "description": "",
-    "quantity": null,
-    "station": "SAROJINI NAGAR",
-    "receiving_date": "2022-05-13",
-    "receiving_time": "01:15:00"
-  },
-  {
-    "id": 2197,
-    "item_name": "WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "MILLENNIUM CITY CENTRE GURUGRAM",
-    "receiving_date": "2022-05-13",
-    "receiving_time": "14:55:00"
-  },
-  {
-    "id": 2198,
-    "item_name": "NECK BAND",
-    "description": "",
-    "quantity": null,
-    "station": "MILLENNIUM CITY CENTRE GURUGRAM",
-    "receiving_date": "2022-05-13",
-    "receiving_time": "21:20:00"
   }
 ]
