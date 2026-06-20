@@ -36,6 +36,15 @@
     "receiving_time": "12:40:00"
   },
   {
+    "id": 24936,
+    "item_name": "LADIES HANDBAG WITH",
+    "description": "CHARGER, MAKE-UP ITEMS,DIAPER, CASH",
+    "quantity": "1",
+    "station": "RAJOURI GARDEN",
+    "receiving_date": "2026-06-13",
+    "receiving_time": "14:50:00"
+  },
+  {
     "id": 24908,
     "item_name": "EARBUD CASE WITH",
     "description": "EARBUDS",
@@ -52,6 +61,15 @@
     "station": "NEW DELHI (Yellow & Airport Line)",
     "receiving_date": "2026-06-12",
     "receiving_time": "06:45:00"
+  },
+  {
+    "id": 24933,
+    "item_name": "EARBUDS WITHOUT",
+    "description": "CASE",
+    "quantity": "1",
+    "station": "DELHI AEROCITY",
+    "receiving_date": "2026-06-12",
+    "receiving_time": "20:37:00"
   },
   {
     "id": 24907,
@@ -115,6 +133,51 @@
     "station": "SECTOR - 52 NOIDA",
     "receiving_date": "2026-06-11",
     "receiving_time": "13:33:00"
+  },
+  {
+    "id": 24928,
+    "item_name": "POWER BANK",
+    "description": "POWER BANK",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-06-11",
+    "receiving_time": "00:30:00"
+  },
+  {
+    "id": 24929,
+    "item_name": "EARBUDS WITH",
+    "description": "CASE",
+    "quantity": "1",
+    "station": "JAMIA MILLIA ISLAMIA",
+    "receiving_date": "2026-06-11",
+    "receiving_time": "13:00:00"
+  },
+  {
+    "id": 24930,
+    "item_name": "BAG WITH",
+    "description": "SLIPPERS, BOTTLE, HALF PANT, CHARGER, NOTE BOOK",
+    "quantity": "1",
+    "station": "KAROL BAGH",
+    "receiving_date": "2026-06-11",
+    "receiving_time": "19:00:00"
+  },
+  {
+    "id": 24932,
+    "item_name": "CARRY BAG WITH",
+    "description": "OLD CLOTHES, SLIPPERS",
+    "quantity": "1",
+    "station": "RAJENDRA PLACE",
+    "receiving_date": "2026-06-11",
+    "receiving_time": "20:15:00"
+  },
+  {
+    "id": 24937,
+    "item_name": "TROLLEY BAG",
+    "description": "TROLLEY BAG",
+    "quantity": "1",
+    "station": "LAXMI NAGAR",
+    "receiving_date": "2026-06-11",
+    "receiving_time": "19:46:00"
   },
   {
     "id": 24846,
@@ -196,6 +259,33 @@
     "station": "KASHMERE GATE",
     "receiving_date": "2026-06-10",
     "receiving_time": "13:20:00"
+  },
+  {
+    "id": 24931,
+    "item_name": "UMBRELLA WITH",
+    "description": "BAG WITH OLD CLOTHES, TOOLS, CARRY BAG WITH KIDS DRAWING BOOKS",
+    "quantity": "1",
+    "station": "KAROL BAGH",
+    "receiving_date": "2026-06-10",
+    "receiving_time": "21:10:00"
+  },
+  {
+    "id": 24935,
+    "item_name": "LUNCH BAG",
+    "description": "LUNCH BAG",
+    "quantity": "1",
+    "station": "UTTAM NAGAR WEST",
+    "receiving_date": "2026-06-10",
+    "receiving_time": "12:51:00"
+  },
+  {
+    "id": 24938,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "GURU DRONACHARYA",
+    "receiving_date": "2026-06-10",
+    "receiving_time": "21:05:00"
   },
   {
     "id": 24832,
@@ -199438,95 +199528,5 @@
     "station": "DWARKA SECTOR - 8",
     "receiving_date": "2022-05-18",
     "receiving_time": "20:25:00"
-  },
-  {
-    "id": 2302,
-    "item_name": "WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "DWARKA-KAKROLA",
-    "receiving_date": "2022-05-18",
-    "receiving_time": "20:00:00"
-  },
-  {
-    "id": 2235,
-    "item_name": "WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "AIRPORT (T-3)",
-    "receiving_date": "2022-05-17",
-    "receiving_time": "15:10:00"
-  },
-  {
-    "id": 2236,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "LAL QUILA",
-    "receiving_date": "2022-05-17",
-    "receiving_time": "12:30:00"
-  },
-  {
-    "id": 2237,
-    "item_name": "WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-05-17",
-    "receiving_time": "06:30:00"
-  },
-  {
-    "id": 2238,
-    "item_name": "BOTTLE",
-    "description": "",
-    "quantity": null,
-    "station": "MILLENNIUM CITY CENTRE GURUGRAM",
-    "receiving_date": "2022-05-17",
-    "receiving_time": "21:30:00"
-  },
-  {
-    "id": 2239,
-    "item_name": "BAG",
-    "description": "CHARGER MEDICINE CLOTHS",
-    "quantity": null,
-    "station": "CENTRAL SECRETARIAT",
-    "receiving_date": "2022-05-17",
-    "receiving_time": "07:00:00"
-  },
-  {
-    "id": 2240,
-    "item_name": "HELMET,CARRY BAG WITH CHARGER CLOTHS",
-    "description": "",
-    "quantity": null,
-    "station": "MALVIYA NAGAR",
-    "receiving_date": "2022-05-17",
-    "receiving_time": "20:00:00"
-  },
-  {
-    "id": 2245,
-    "item_name": "BOTTLE",
-    "description": "",
-    "quantity": null,
-    "station": "NOIDA CITY CENTRE",
-    "receiving_date": "2022-05-17",
-    "receiving_time": "11:30:00"
-  },
-  {
-    "id": 2246,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "KASHMERE GATE",
-    "receiving_date": "2022-05-17",
-    "receiving_time": "09:05:00"
-  },
-  {
-    "id": 2251,
-    "item_name": "WALLET HAVING PHOTO,KEY",
-    "description": "",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-05-17",
-    "receiving_time": "18:25:00"
   }
 ]
