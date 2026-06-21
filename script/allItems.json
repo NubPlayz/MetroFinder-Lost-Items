@@ -45,6 +45,24 @@
     "receiving_time": "14:50:00"
   },
   {
+    "id": 24939,
+    "item_name": "CARRY BAG WITH",
+    "description": "SHOES",
+    "quantity": "1",
+    "station": "AIRPORT (T-3)",
+    "receiving_date": "2026-06-13",
+    "receiving_time": "23:00:00"
+  },
+  {
+    "id": 24941,
+    "item_name": "MOBILE PHONE",
+    "description": "MOBILE PHONE",
+    "quantity": "1",
+    "station": "SHAHEED STHAL ( NEW BUS ADDA)",
+    "receiving_date": "2026-06-13",
+    "receiving_time": "19:00:00"
+  },
+  {
     "id": 24908,
     "item_name": "EARBUD CASE WITH",
     "description": "EARBUDS",
@@ -70,6 +88,24 @@
     "station": "DELHI AEROCITY",
     "receiving_date": "2026-06-12",
     "receiving_time": "20:37:00"
+  },
+  {
+    "id": 24940,
+    "item_name": "EARBUDS WITH",
+    "description": "CASE",
+    "quantity": "1",
+    "station": "KAROL BAGH",
+    "receiving_date": "2026-06-12",
+    "receiving_time": "12:58:00"
+  },
+  {
+    "id": 24942,
+    "item_name": "WAIST BELT",
+    "description": "WAIST BELT",
+    "quantity": "1",
+    "station": "SHIVAJI STADIUM ",
+    "receiving_date": "2026-06-12",
+    "receiving_time": "21:15:00"
   },
   {
     "id": 24907,
@@ -199492,41 +199528,5 @@
     "station": "AZADPUR",
     "receiving_date": "2022-05-18",
     "receiving_time": "09:30:00"
-  },
-  {
-    "id": 2272,
-    "item_name": "LIFE JACKET SUNGLASS EARBUDS",
-    "description": "",
-    "quantity": null,
-    "station": "AIRPORT (T-3)",
-    "receiving_date": "2022-05-18",
-    "receiving_time": "19:15:00"
-  },
-  {
-    "id": 2276,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-05-18",
-    "receiving_time": "21:40:00"
-  },
-  {
-    "id": 2277,
-    "item_name": "EARBUDS",
-    "description": "",
-    "quantity": null,
-    "station": "KARKARDUMA",
-    "receiving_date": "2022-05-18",
-    "receiving_time": "21:30:00"
-  },
-  {
-    "id": 2279,
-    "item_name": "PAINT",
-    "description": "",
-    "quantity": null,
-    "station": "DWARKA SECTOR - 8",
-    "receiving_date": "2022-05-18",
-    "receiving_time": "20:25:00"
   }
 ]
