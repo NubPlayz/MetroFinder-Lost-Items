@@ -27,6 +27,60 @@
     "receiving_time": "19:06:00"
   },
   {
+    "id": 25000,
+    "item_name": "MOBILE PHONE",
+    "description": "MOBILE PHONE",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-06-18",
+    "receiving_time": "13:15:00"
+  },
+  {
+    "id": 25003,
+    "item_name": "BACKPACK BAG WITH",
+    "description": "OLD CLOTHES, GENTS FOOTWEAR, AADHAAR CARD OF DEVENDRA BHAGAT",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 21",
+    "receiving_date": "2026-06-18",
+    "receiving_time": "09:30:00"
+  },
+  {
+    "id": 25004,
+    "item_name": "CARRY BAG WITH",
+    "description": "JEANS, UMBRELLA, WRIST WATCH",
+    "quantity": "1",
+    "station": "MOTI NAGAR",
+    "receiving_date": "2026-06-18",
+    "receiving_time": "13:03:00"
+  },
+  {
+    "id": 25008,
+    "item_name": "WALLET WITH",
+    "description": "DL, RC, BANK CARD, AADHAAR CARD OF JAGDISH MALIK",
+    "quantity": "1",
+    "station": "ROHINI SECTOR - 18, 19",
+    "receiving_date": "2026-06-18",
+    "receiving_time": "13:20:00"
+  },
+  {
+    "id": 25014,
+    "item_name": "ONE EARBUD WITH",
+    "description": "CASE",
+    "quantity": "1",
+    "station": "SECTOR - 52 NOIDA",
+    "receiving_date": "2026-06-18",
+    "receiving_time": "15:02:00"
+  },
+  {
+    "id": 25015,
+    "item_name": "ONE EARBUD WITH",
+    "description": "CASE",
+    "quantity": "1",
+    "station": "SECTOR - 52 NOIDA",
+    "receiving_date": "2026-06-18",
+    "receiving_time": "12:15:00"
+  },
+  {
     "id": 24983,
     "item_name": "ONE PAIR OF SHOES",
     "description": "ONE PAIR OF SHOES",
@@ -124,6 +178,69 @@
     "station": "JANAKPURI WEST",
     "receiving_date": "2026-06-17",
     "receiving_time": "00:25:00"
+  },
+  {
+    "id": 25001,
+    "item_name": "PCB BOARD",
+    "description": "PCB BOARD",
+    "quantity": "1",
+    "station": "LAL QUILA",
+    "receiving_date": "2026-06-17",
+    "receiving_time": "18:30:00"
+  },
+  {
+    "id": 25002,
+    "item_name": "UMBRELLA WITH",
+    "description": "BOTTLE, TIFFIN BAG",
+    "quantity": "1",
+    "station": "RAJENDRA PLACE",
+    "receiving_date": "2026-06-17",
+    "receiving_time": "10:09:00"
+  },
+  {
+    "id": 25009,
+    "item_name": "T-SHIRT",
+    "description": "T-SHIRT",
+    "quantity": "1",
+    "station": "IIT",
+    "receiving_date": "2026-06-17",
+    "receiving_time": "06:17:00"
+  },
+  {
+    "id": 25010,
+    "item_name": "LADIES WRIST WATCH",
+    "description": "LADIES WRIST WATCH",
+    "quantity": "1",
+    "station": "SUBHASH NAGAR",
+    "receiving_date": "2026-06-17",
+    "receiving_time": "12:15:00"
+  },
+  {
+    "id": 25011,
+    "item_name": "BAGPACK",
+    "description": "BAGPACK",
+    "quantity": "1",
+    "station": "CENTRAL SECRETARIAT",
+    "receiving_date": "2026-06-17",
+    "receiving_time": "22:50:00"
+  },
+  {
+    "id": 25012,
+    "item_name": "POLYBAG WITH",
+    "description": "TWO OLD PANTS",
+    "quantity": "1",
+    "station": "CENTRAL SECRETARIAT",
+    "receiving_date": "2026-06-17",
+    "receiving_time": "22:00:00"
+  },
+  {
+    "id": 25013,
+    "item_name": "WATER BOTTLE WITH",
+    "description": "LADIES WRIST WATCH",
+    "quantity": "1",
+    "station": "SECTOR - 59 NOIDA",
+    "receiving_date": "2026-06-17",
+    "receiving_time": "21:00:00"
   },
   {
     "id": 24924,
@@ -270,6 +387,15 @@
     "receiving_time": "23:50:00"
   },
   {
+    "id": 25006,
+    "item_name": "DUFFLE BAG WITH",
+    "description": "OLD CLOTHES",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-06-16",
+    "receiving_time": "13:40:00"
+  },
+  {
     "id": 24943,
     "item_name": "WAIST POUCH WITH",
     "description": "CHARGER, ADAPTOR, DATA CABLE, POWER BANK",
@@ -396,6 +522,15 @@
     "receiving_time": "21:00:00"
   },
   {
+    "id": 25005,
+    "item_name": "BACKPACK BAG WITH",
+    "description": "OLD CLOTHES",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-06-15",
+    "receiving_time": "21:00:00"
+  },
+  {
     "id": 24903,
     "item_name": "SILVER COLOUR TOE RINGS",
     "description": "SILVER COLOUR TOE RINGS",
@@ -475,6 +610,15 @@
     "station": "UTTAM NAGAR EAST",
     "receiving_date": "2026-06-14",
     "receiving_time": "16:00:00"
+  },
+  {
+    "id": 25007,
+    "item_name": "WRIST WATCH",
+    "description": "WRIST WATCH",
+    "quantity": "1",
+    "station": "SECTOR - 61 NOIDA",
+    "receiving_date": "2026-06-14",
+    "receiving_time": "17:10:00"
   },
   {
     "id": 24919,
@@ -199384,149 +199528,5 @@
     "station": "RAJIV CHOWK",
     "receiving_date": "2022-05-23",
     "receiving_time": "13:10:00"
-  },
-  {
-    "id": 2328,
-    "item_name": "PAPER BAG",
-    "description": "TOP, TIFFIN",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-05-23",
-    "receiving_time": "13:10:00"
-  },
-  {
-    "id": 2329,
-    "item_name": "SUNGLASS,WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "HAUZ KHAS",
-    "receiving_date": "2022-05-23",
-    "receiving_time": "21:20:00"
-  },
-  {
-    "id": 2330,
-    "item_name": "SPECTACLE",
-    "description": "",
-    "quantity": null,
-    "station": "HAUZ KHAS",
-    "receiving_date": "2022-05-23",
-    "receiving_time": "09:00:00"
-  },
-  {
-    "id": 2331,
-    "item_name": "PRINTER",
-    "description": "",
-    "quantity": null,
-    "station": "RAJA NAHAR SINGH (BALLABHGARH)",
-    "receiving_date": "2022-05-23",
-    "receiving_time": "19:00:00"
-  },
-  {
-    "id": 2333,
-    "item_name": "EMPTY BAG",
-    "description": "",
-    "quantity": null,
-    "station": "BOTANICAL GARDEN",
-    "receiving_date": "2022-05-23",
-    "receiving_time": "20:20:00"
-  },
-  {
-    "id": 2335,
-    "item_name": "POWER BANK",
-    "description": "",
-    "quantity": null,
-    "station": "AIRPORT (T-3)",
-    "receiving_date": "2022-05-23",
-    "receiving_time": "20:40:00"
-  },
-  {
-    "id": 2338,
-    "item_name": "BAG",
-    "description": "CREAM",
-    "quantity": null,
-    "station": "KARKARDUMA COURT",
-    "receiving_date": "2022-05-23",
-    "receiving_time": "21:00:00"
-  },
-  {
-    "id": 2342,
-    "item_name": "POLY BAG",
-    "description": "MOBILE COVER CREAM TOP",
-    "quantity": null,
-    "station": "LAJPAT NAGAR",
-    "receiving_date": "2022-05-23",
-    "receiving_time": "20:35:00"
-  },
-  {
-    "id": 2347,
-    "item_name": "watch bottle",
-    "description": "",
-    "quantity": null,
-    "station": "KAUSHAMBI",
-    "receiving_date": "2022-05-23",
-    "receiving_time": "12:50:00"
-  },
-  {
-    "id": 2354,
-    "item_name": "UMBRELLA",
-    "description": "",
-    "quantity": null,
-    "station": "DILSHAD GARDEN",
-    "receiving_date": "2022-05-23",
-    "receiving_time": "10:00:00"
-  },
-  {
-    "id": 2437,
-    "item_name": "UMBRELLA",
-    "description": "",
-    "quantity": null,
-    "station": "OKHLA BIRD SANCTUARY",
-    "receiving_date": "2022-05-23",
-    "receiving_time": "21:30:00"
-  },
-  {
-    "id": 2438,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "OKHLA BIRD SANCTUARY",
-    "receiving_date": "2022-05-23",
-    "receiving_time": "18:30:00"
-  },
-  {
-    "id": 2309,
-    "item_name": "MOBILE METRO CARD AADHAR OF KIRAN SAHNI",
-    "description": "",
-    "quantity": null,
-    "station": "PATEL CHOWK",
-    "receiving_date": "2022-05-22",
-    "receiving_time": "10:45:00"
-  },
-  {
-    "id": 2311,
-    "item_name": "WEIGHING MACHINE",
-    "description": "",
-    "quantity": null,
-    "station": "RAJA NAHAR SINGH (BALLABHGARH)",
-    "receiving_date": "2022-05-22",
-    "receiving_time": "16:40:00"
-  },
-  {
-    "id": 2313,
-    "item_name": "PURSE",
-    "description": "CASH RC DL AADHAR BANK CARDS OF ABHISHEK CHAMOLI",
-    "quantity": null,
-    "station": "SECTOR-28",
-    "receiving_date": "2022-05-22",
-    "receiving_time": "13:00:00"
-  },
-  {
-    "id": 2317,
-    "item_name": "CAP TOP T SHIRT SHORT",
-    "description": "",
-    "quantity": null,
-    "station": "SAROJINI NAGAR",
-    "receiving_date": "2022-05-22",
-    "receiving_time": "00:44:00"
   }
 ]
