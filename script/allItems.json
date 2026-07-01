@@ -9,9 +9,63 @@
     "receiving_time": "12:35:00"
   },
   {
+    "id": 25074,
+    "item_name": "TRIMMER SET WITH",
+    "description": "CHARGER",
+    "quantity": "1",
+    "station": "JAMA MASJID",
+    "receiving_date": "2026-06-23",
+    "receiving_time": "12:20:00"
+  },
+  {
+    "id": 25075,
+    "item_name": "BACKPACK BAG WITH",
+    "description": "OLD CLOTHES",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 21",
+    "receiving_date": "2026-06-23",
+    "receiving_time": "13:23:00"
+  },
+  {
+    "id": 25076,
+    "item_name": "HAND BAG WITH",
+    "description": "LUNCH BOXES",
+    "quantity": "1",
+    "station": "R.K.PURAM",
+    "receiving_date": "2026-06-23",
+    "receiving_time": "20:00:00"
+  },
+  {
+    "id": 25077,
+    "item_name": "LUNCH BAG WITH",
+    "description": "LUNCH BOXES",
+    "quantity": "1",
+    "station": "BOTANICAL GARDEN",
+    "receiving_date": "2026-06-23",
+    "receiving_time": "13:20:00"
+  },
+  {
+    "id": 25079,
+    "item_name": "LUNCH BAG WITH",
+    "description": "GLASS BOXES, STEEL BOXES",
+    "quantity": "1",
+    "station": "DELHI AEROCITY",
+    "receiving_date": "2026-06-23",
+    "receiving_time": "20:30:00"
+  },
+  {
+    "id": 25080,
+    "item_name": "LUNCH BAG WITH",
+    "description": "TIFFIN BOXES",
+    "quantity": "1",
+    "station": "UTTAM NAGAR EAST",
+    "receiving_date": "2026-06-23",
+    "receiving_time": "12:05:00"
+  },
+  {
     "id": 24986,
     "item_name": "SMALL PURSE WITH",
-    "description": "NOSE TING, STUD EARRING,KEYS, CASH.",
+    "description": "NOSE RING, STUD EARRING,KEYS, CASH.",
     "quantity": "1",
     "station": "SHAHEED NAGAR",
     "receiving_date": "2026-06-22",
@@ -169,6 +223,33 @@
     "station": "DWARKA-KAKROLA",
     "receiving_date": "2026-06-21",
     "receiving_time": "15:15:00"
+  },
+  {
+    "id": 25073,
+    "item_name": "TIFFIN BAG WITH",
+    "description": "BOXES, EARBUD CASE, UMBRELLA WITH EMPTY PURSE, CARRY BAG WITH USED CLOTHES, DL, RC OF MR. MUNNA YADEV",
+    "quantity": "1",
+    "station": "KAROL BAGH",
+    "receiving_date": "2026-06-21",
+    "receiving_time": "17:00:00"
+  },
+  {
+    "id": 25078,
+    "item_name": "BAG WITH WATER BOTTLE",
+    "description": "ID CARD OF ADITYA SIWACH, PENS",
+    "quantity": "1",
+    "station": "JANAKPURI WEST",
+    "receiving_date": "2026-06-21",
+    "receiving_time": "20:23:00"
+  },
+  {
+    "id": 25081,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "IFFCO CHOWK",
+    "receiving_date": "2026-06-21",
+    "receiving_time": "21:00:00"
   },
   {
     "id": 25024,
@@ -199447,86 +199528,5 @@
     "station": "DHAULA KUAN",
     "receiving_date": "2022-05-27",
     "receiving_time": "21:00:00"
-  },
-  {
-    "id": 2386,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "VISHWAVIDYALAYA",
-    "receiving_date": "2022-05-27",
-    "receiving_time": "22:15:00"
-  },
-  {
-    "id": 2387,
-    "item_name": "HALF PANT",
-    "description": "",
-    "quantity": null,
-    "station": "VISHWAVIDYALAYA",
-    "receiving_date": "2022-05-27",
-    "receiving_time": "07:35:00"
-  },
-  {
-    "id": 2391,
-    "item_name": "POLY BAG",
-    "description": "KURTI MASK CHUNNI",
-    "quantity": null,
-    "station": "LAJPAT NAGAR",
-    "receiving_date": "2022-05-27",
-    "receiving_time": "21:10:00"
-  },
-  {
-    "id": 2392,
-    "item_name": "SHOES & COVER",
-    "description": "",
-    "quantity": null,
-    "station": "LAL QUILA",
-    "receiving_date": "2022-05-27",
-    "receiving_time": "11:00:00"
-  },
-  {
-    "id": 2394,
-    "item_name": "HELMET",
-    "description": "",
-    "quantity": null,
-    "station": "IFFCO CHOWK",
-    "receiving_date": "2022-05-27",
-    "receiving_time": "21:02:00"
-  },
-  {
-    "id": 2396,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "KALINDI KUNJ",
-    "receiving_date": "2022-05-27",
-    "receiving_time": "10:20:00"
-  },
-  {
-    "id": 2399,
-    "item_name": "FOLDER",
-    "description": "AADHAR VOTER ID MEDICAL DOCUMENTS OF RAMNARAYAN KRISHAN",
-    "quantity": null,
-    "station": "LAXMI NAGAR",
-    "receiving_date": "2022-05-27",
-    "receiving_time": "21:00:00"
-  },
-  {
-    "id": 2400,
-    "item_name": "WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "MAYUR VIHAR EXTENSION",
-    "receiving_date": "2022-05-27",
-    "receiving_time": "09:30:00"
-  },
-  {
-    "id": 2406,
-    "item_name": "sun glass",
-    "description": "",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-05-27",
-    "receiving_time": "14:35:00"
   }
 ]
