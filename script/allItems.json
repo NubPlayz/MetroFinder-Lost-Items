@@ -18,6 +18,42 @@
     "receiving_time": "12:35:00"
   },
   {
+    "id": 25098,
+    "item_name": "HELMET",
+    "description": "HELMET WITH GLASS AND WITHOUT GLASS",
+    "quantity": "1",
+    "station": "RITHALA",
+    "receiving_date": "2026-06-25",
+    "receiving_time": "10:15:00"
+  },
+  {
+    "id": 25099,
+    "item_name": "METRO CARD",
+    "description": "METRO CARD",
+    "quantity": "1",
+    "station": "KRISHNA PARK EXTENSION",
+    "receiving_date": "2026-06-25",
+    "receiving_time": "12:59:00"
+  },
+  {
+    "id": 25100,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "NAWADA",
+    "receiving_date": "2026-06-25",
+    "receiving_time": "11:42:00"
+  },
+  {
+    "id": 25102,
+    "item_name": "EARBUD CASE WITH",
+    "description": "BOTH EARBUDS",
+    "quantity": "1",
+    "station": "SECTOR - 34 NOIDA",
+    "receiving_date": "2026-06-25",
+    "receiving_time": "12:50:00"
+  },
+  {
     "id": 25090,
     "item_name": "COLOURS AND DRAWINGBOOK  PACKET",
     "description": "COLOURS AND DRAWING BOOK  PACKET",
@@ -43,6 +79,60 @@
     "station": "JANAKPURI WEST",
     "receiving_date": "2026-06-24",
     "receiving_time": "20:12:00"
+  },
+  {
+    "id": 25094,
+    "item_name": "BACKPACK BAG",
+    "description": "BACKPACK BAG",
+    "quantity": "1",
+    "station": "KAROL BAGH",
+    "receiving_date": "2026-06-24",
+    "receiving_time": "21:12:00"
+  },
+  {
+    "id": 25095,
+    "item_name": "MOBILE PHONE WITH",
+    "description": "COVER",
+    "quantity": "1",
+    "station": "AIIMS",
+    "receiving_date": "2026-06-24",
+    "receiving_time": "21:00:00"
+  },
+  {
+    "id": 25096,
+    "item_name": "EARBUD CASE WITH",
+    "description": "EARBUD, WATER BOTTLE",
+    "quantity": "1",
+    "station": "RAJENDRA PLACE",
+    "receiving_date": "2026-06-24",
+    "receiving_time": "21:05:00"
+  },
+  {
+    "id": 25101,
+    "item_name": "EARBUD CASE WITH",
+    "description": "BOTH EARBUDS",
+    "quantity": "1",
+    "station": "DWARKA MOR",
+    "receiving_date": "2026-06-24",
+    "receiving_time": "11:25:00"
+  },
+  {
+    "id": 25103,
+    "item_name": "HAND PURSE WITH",
+    "description": "CASH , CHARGER AND PASSPORT SIZE PHOTO.",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-06-24",
+    "receiving_time": "20:34:00"
+  },
+  {
+    "id": 25104,
+    "item_name": "EARBUDS CASE WITH",
+    "description": "BOTH EARBUDS AND ONE BURNER GAS CHULHA",
+    "quantity": "1",
+    "station": "CHANDNI CHOWK",
+    "receiving_date": "2026-06-24",
+    "receiving_time": "22:00:00"
   },
   {
     "id": 25082,
@@ -79,6 +169,15 @@
     "station": "SIKANDERPUR",
     "receiving_date": "2026-06-23",
     "receiving_time": "12:00:00"
+  },
+  {
+    "id": 25097,
+    "item_name": "LADIES HANDBAG WITH",
+    "description": "CASH, BANGLE, SOME CLOTHES AND GLASSES",
+    "quantity": "1",
+    "station": "RITHALA",
+    "receiving_date": "2026-06-23",
+    "receiving_time": "10:18:00"
   },
   {
     "id": 25074,
@@ -199429,104 +199528,5 @@
     "station": "CHANDNI CHOWK",
     "receiving_date": "2022-05-29",
     "receiving_time": "14:25:00"
-  },
-  {
-    "id": 2457,
-    "item_name": "HAND BAG",
-    "description": "PAN CARD CHARGER PENS LOTION PERFUME OF ADITYA SINGH",
-    "quantity": null,
-    "station": "TERMINAL 1-IGI AIRPORT",
-    "receiving_date": "2022-05-29",
-    "receiving_time": "15:30:00"
-  },
-  {
-    "id": 3033,
-    "item_name": "WATCH",
-    "description": "",
-    "quantity": "1",
-    "station": "M.G. ROAD",
-    "receiving_date": "2022-05-29",
-    "receiving_time": "20:20:00"
-  },
-  {
-    "id": 2383,
-    "item_name": "UMBRELLA",
-    "description": "",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-05-28",
-    "receiving_time": "20:30:00"
-  },
-  {
-    "id": 2388,
-    "item_name": "KURTA & PAJAMA",
-    "description": "",
-    "quantity": null,
-    "station": "CHANDNI CHOWK",
-    "receiving_date": "2022-05-28",
-    "receiving_time": "21:30:00"
-  },
-  {
-    "id": 2389,
-    "item_name": "DUPATTA",
-    "description": "",
-    "quantity": null,
-    "station": "CHANDNI CHOWK",
-    "receiving_date": "2022-05-28",
-    "receiving_time": "21:30:00"
-  },
-  {
-    "id": 2401,
-    "item_name": "WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "NOIDA SECTOR-16",
-    "receiving_date": "2022-05-28",
-    "receiving_time": "21:00:00"
-  },
-  {
-    "id": 2404,
-    "item_name": "EMPTY PURSE",
-    "description": "",
-    "quantity": null,
-    "station": "DWARKA-KAKROLA",
-    "receiving_date": "2022-05-28",
-    "receiving_time": "19:20:00"
-  },
-  {
-    "id": 2405,
-    "item_name": "BAG",
-    "description": "KEYS",
-    "quantity": null,
-    "station": "DWARKA-KAKROLA",
-    "receiving_date": "2022-05-28",
-    "receiving_time": "20:54:00"
-  },
-  {
-    "id": 2407,
-    "item_name": "PURSE",
-    "description": "AADHAR BANK CARD OF DHARMENDRA SINGH",
-    "quantity": null,
-    "station": "KASHMERE GATE",
-    "receiving_date": "2022-05-28",
-    "receiving_time": "20:25:00"
-  },
-  {
-    "id": 2408,
-    "item_name": "ENVELOPE",
-    "description": "DOCUMENTS",
-    "quantity": null,
-    "station": "KASHMERE GATE",
-    "receiving_date": "2022-05-28",
-    "receiving_time": "09:25:00"
-  },
-  {
-    "id": 2413,
-    "item_name": "BAG",
-    "description": "NOTE BOOK",
-    "quantity": null,
-    "station": "NOIDA CITY CENTRE",
-    "receiving_date": "2022-05-28",
-    "receiving_time": "14:30:00"
   }
 ]
