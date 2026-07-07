@@ -9,6 +9,15 @@
     "receiving_time": "07:30:00"
   },
   {
+    "id": 25150,
+    "item_name": "BAGPACK  WITH",
+    "description": "UMBRELLA , SLEEPER AND USED CLOTHES",
+    "quantity": "1",
+    "station": "YASHOBHOOMI DWARKA SECTOR  - 25",
+    "receiving_date": "2026-06-30",
+    "receiving_time": "18:30:00"
+  },
+  {
     "id": 25115,
     "item_name": "MANGALSUTRA",
     "description": "MANGALSUTRA",
@@ -16,6 +25,123 @@
     "station": "RAJIV CHOWK",
     "receiving_date": "2026-06-29",
     "receiving_time": "20:00:00"
+  },
+  {
+    "id": 25138,
+    "item_name": "CEILING FAN 'S BLADES",
+    "description": "CEILING FAN 'S BLADES",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-06-29",
+    "receiving_time": "20:32:00"
+  },
+  {
+    "id": 25141,
+    "item_name": "EARBUD CASE WITH",
+    "description": "EARBUDS",
+    "quantity": "1",
+    "station": "UTTAM NAGAR EAST",
+    "receiving_date": "2026-06-29",
+    "receiving_time": "12:30:00"
+  },
+  {
+    "id": 25147,
+    "item_name": "KEY RING OF THREE KEYS WITH",
+    "description": "ID CARD NAME OF RONIT SHARMA",
+    "quantity": "1",
+    "station": "RAJIV CHOWK",
+    "receiving_date": "2026-06-29",
+    "receiving_time": "01:00:00"
+  },
+  {
+    "id": 25148,
+    "item_name": "WALLET WITH",
+    "description": "ADHAR CARD, VOTER ID CARD AND SBI ATM NAME OF AMRITA KHUSHWAHA",
+    "quantity": "1",
+    "station": "RAJIV CHOWK",
+    "receiving_date": "2026-06-29",
+    "receiving_time": "01:00:00"
+  },
+  {
+    "id": 25149,
+    "item_name": "WALLET WITH",
+    "description": "ADHAR CARD , ATM CARD NAME OF KAMAL KUMAR SUTHAR",
+    "quantity": "1",
+    "station": "RAJIV CHOWK",
+    "receiving_date": "2026-06-29",
+    "receiving_time": "01:00:00"
+  },
+  {
+    "id": 25152,
+    "item_name": "EARBUD CASE WITH",
+    "description": "ONE EARBUD",
+    "quantity": "1",
+    "station": "NOIDA ELECTRONIC CITY",
+    "receiving_date": "2026-06-29",
+    "receiving_time": "12:00:00"
+  },
+  {
+    "id": 25153,
+    "item_name": "WALLET WITH",
+    "description": "ADHAR CARD , PAN CARD NAME OF AZHAN SALEEM, METRO CARD, DEBIT CARD, CASH",
+    "quantity": "1",
+    "station": "SHIVAJI STADIUM ",
+    "receiving_date": "2026-06-29",
+    "receiving_time": "13:10:00"
+  },
+  {
+    "id": 25155,
+    "item_name": "WALLET WITH",
+    "description": "CASH",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-06-29",
+    "receiving_time": "18:30:00"
+  },
+  {
+    "id": 25156,
+    "item_name": "NCMC CARD",
+    "description": "NCMC CARD",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-06-29",
+    "receiving_time": "18:00:00"
+  },
+  {
+    "id": 25157,
+    "item_name": "CAMERA WITH",
+    "description": "SD CARDS",
+    "quantity": "1",
+    "station": "VISHWAVIDYALAYA",
+    "receiving_date": "2026-06-29",
+    "receiving_time": "16:25:00"
+  },
+  {
+    "id": 25137,
+    "item_name": "WALLET WITH",
+    "description": "BANK CARD, VOTER ID OF BIPIN BIHARI SHRIVASTAV, CASH",
+    "quantity": "1",
+    "station": "BOTANICAL GARDEN",
+    "receiving_date": "2026-06-28",
+    "receiving_time": "22:15:00"
+  },
+  {
+    "id": 25139,
+    "item_name": "BROKEN FASHION JEWELLARY",
+    "description": "BROKEN FASHION JEWELLERY",
+    "quantity": "1",
+    "station": "UTTAM NAGAR EAST",
+    "receiving_date": "2026-06-28",
+    "receiving_time": "12:40:00"
+  },
+  {
+    "id": 25142,
+    "item_name": "UMBRELLA WITH",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "UTTAM NAGAR EAST",
+    "receiving_date": "2026-06-28",
+    "receiving_time": "12:40:00"
   },
   {
     "id": 25124,
@@ -81,6 +207,51 @@
     "receiving_time": "21:23:00"
   },
   {
+    "id": 25136,
+    "item_name": "HELMET",
+    "description": "HELMET",
+    "quantity": "1",
+    "station": "SULTANPUR",
+    "receiving_date": "2026-06-27",
+    "receiving_time": "07:00:00"
+  },
+  {
+    "id": 25143,
+    "item_name": "WALLET WITH",
+    "description": "DL, ADHAR CARD, RC, VOTER ID CARD AND SOME BANK CARDS  OF GURBHINDER SINGH",
+    "quantity": "1",
+    "station": "JOR BAGH",
+    "receiving_date": "2026-06-27",
+    "receiving_time": "19:40:00"
+  },
+  {
+    "id": 25145,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "M.G. ROAD",
+    "receiving_date": "2026-06-27",
+    "receiving_time": "21:00:00"
+  },
+  {
+    "id": 25146,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "M.G. ROAD",
+    "receiving_date": "2026-06-27",
+    "receiving_time": "21:10:00"
+  },
+  {
+    "id": 25151,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 21",
+    "receiving_date": "2026-06-27",
+    "receiving_time": "19:40:00"
+  },
+  {
     "id": 25088,
     "item_name": "A PAIR OF ANKLETS",
     "description": "A PAIR OF ANKLETS",
@@ -142,6 +313,15 @@
     "station": "GURU DRONACHARYA",
     "receiving_date": "2026-06-26",
     "receiving_time": "21:28:00"
+  },
+  {
+    "id": 25140,
+    "item_name": "EARBUD CASE WITH",
+    "description": "NO EARBUDS",
+    "quantity": "1",
+    "station": "UTTAM NAGAR EAST",
+    "receiving_date": "2026-06-26",
+    "receiving_time": "15:00:00"
   },
   {
     "id": 25070,
@@ -277,6 +457,15 @@
     "station": "KASHMERE GATE",
     "receiving_date": "2026-06-25",
     "receiving_time": "22:00:00"
+  },
+  {
+    "id": 25144,
+    "item_name": "WRIST WATCH WITH",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "INDERLOK",
+    "receiving_date": "2026-06-25",
+    "receiving_time": "09:54:00"
   },
   {
     "id": 25090,
@@ -199339,194 +199528,5 @@
     "station": "MOTI NAGAR",
     "receiving_date": "2022-06-01",
     "receiving_time": "21:00:00"
-  },
-  {
-    "id": 2487,
-    "item_name": "HAND BAG",
-    "description": "CASH ORNAMENT",
-    "quantity": null,
-    "station": "UTTAM NAGAR EAST",
-    "receiving_date": "2022-06-01",
-    "receiving_time": "20:30:00"
-  },
-  {
-    "id": 2511,
-    "item_name": "BOOK",
-    "description": "",
-    "quantity": null,
-    "station": "IFFCO CHOWK",
-    "receiving_date": "2022-06-01",
-    "receiving_time": "21:30:00"
-  },
-  {
-    "id": 3038,
-    "item_name": "LADIES BAG HAVING MAKEUP ITEM AND KEYS",
-    "description": "",
-    "quantity": "1",
-    "station": "AKSHARDHAM",
-    "receiving_date": "2022-06-01",
-    "receiving_time": "12:51:00"
-  },
-  {
-    "id": 2447,
-    "item_name": "BAG",
-    "description": "LUNCH BOX ,SYRUP, BOTTLE",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "16:00:00"
-  },
-  {
-    "id": 2448,
-    "item_name": "cash",
-    "description": "",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "23:00:00"
-  },
-  {
-    "id": 2449,
-    "item_name": "cash",
-    "description": "",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "23:00:00"
-  },
-  {
-    "id": 2451,
-    "item_name": "BAG",
-    "description": "LUNCH BOX",
-    "quantity": null,
-    "station": "TIS HAZARI",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "17:05:00"
-  },
-  {
-    "id": 2453,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "DELHI AEROCITY",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "21:03:00"
-  },
-  {
-    "id": 2454,
-    "item_name": "BAG",
-    "description": "LAPTOP,CHARGER,MOUSE,SPECS,MEDICINES",
-    "quantity": null,
-    "station": "DELHI AEROCITY",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "21:03:00"
-  },
-  {
-    "id": 2455,
-    "item_name": "HAND BAG",
-    "description": "PASSPORT AADHAR ID CARD OF ANIRUDDHA DEBNATH",
-    "quantity": null,
-    "station": "SHIVAJI STADIUM ",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "13:25:00"
-  },
-  {
-    "id": 2458,
-    "item_name": "JUTE BAG",
-    "description": "EARBUDS BOTTLE CONTAINERS",
-    "quantity": null,
-    "station": "OKHLA BIRD SANCTUARY",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "20:00:00"
-  },
-  {
-    "id": 2459,
-    "item_name": "BAG",
-    "description": "CLOTHS",
-    "quantity": null,
-    "station": "TILAK NAGAR",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "18:50:00"
-  },
-  {
-    "id": 2460,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "JANAKPURI EAST",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "20:50:00"
-  },
-  {
-    "id": 2461,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "SAMAYPUR BADLI",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "18:00:00"
-  },
-  {
-    "id": 2462,
-    "item_name": "SUITS PIECES",
-    "description": "",
-    "quantity": null,
-    "station": "SAMAYPUR BADLI",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "12:30:00"
-  },
-  {
-    "id": 2463,
-    "item_name": "BLANKET",
-    "description": "",
-    "quantity": null,
-    "station": "PRATAP NAGAR",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "11:40:00"
-  },
-  {
-    "id": 2464,
-    "item_name": "BAG",
-    "description": "SHAWL BOOKS NOTE BOOKS DIARY OF PAPPU KUMAR",
-    "quantity": null,
-    "station": "AZADPUR",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "12:30:00"
-  },
-  {
-    "id": 2465,
-    "item_name": "BAG",
-    "description": "CLOTHS CHAREGR GEL",
-    "quantity": null,
-    "station": "SECTOR - 61 NOIDA",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "21:50:00"
-  },
-  {
-    "id": 2466,
-    "item_name": "BAG",
-    "description": "PLASTIC BOWL CHARGER CLOTHS CURRENCY GARLAND",
-    "quantity": null,
-    "station": "ANAND VIHAR ISBT",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "19:00:00"
-  },
-  {
-    "id": 2472,
-    "item_name": "NOTE BOOK ,PHOTOCOPY OF BOOK",
-    "description": "",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "00:45:00"
-  },
-  {
-    "id": 2473,
-    "item_name": "EARBUDS",
-    "description": "",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-05-31",
-    "receiving_time": "21:15:00"
   }
 ]
