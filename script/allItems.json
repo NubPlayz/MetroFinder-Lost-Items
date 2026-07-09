@@ -36,6 +36,78 @@
     "receiving_time": "11:30:00"
   },
   {
+    "id": 25173,
+    "item_name": "UMBRELLA WITH",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "UTTAM NAGAR EAST",
+    "receiving_date": "2026-07-01",
+    "receiving_time": "13:15:00"
+  },
+  {
+    "id": 25176,
+    "item_name": "POLY BAG WITH",
+    "description": "TIFFIN WITH 3 BOXES, STEEL TIFFIN, SPOON",
+    "quantity": "1",
+    "station": "SHANKAR VIHAR",
+    "receiving_date": "2026-07-01",
+    "receiving_time": "20:30:00"
+  },
+  {
+    "id": 25177,
+    "item_name": "BAG WITH",
+    "description": "PLASTIC GLASSES AND WATER BOTLE AND BED SHEET",
+    "quantity": "1",
+    "station": "CENTRAL SECRETARIAT",
+    "receiving_date": "2026-07-01",
+    "receiving_time": "00:40:00"
+  },
+  {
+    "id": 25178,
+    "item_name": "DUFFLE BAG WITH",
+    "description": "T-SHIRT, PAJAMA, FACE WASH, COMB, EARBUD WITH CASE",
+    "quantity": "1",
+    "station": "BOTANICAL GARDEN",
+    "receiving_date": "2026-07-01",
+    "receiving_time": "12:50:00"
+  },
+  {
+    "id": 25179,
+    "item_name": "BAGPACK  WITH",
+    "description": "EARBUDS WITH CASE, BT SOUND BAR,RECHARGEABLE LED LIGHT, BLUE & WHITE JACKET, CASH, RECHARGEABLE BATTERY",
+    "quantity": "1",
+    "station": "YASHOBHOOMI DWARKA SECTOR  - 25",
+    "receiving_date": "2026-07-01",
+    "receiving_time": "18:45:00"
+  },
+  {
+    "id": 25180,
+    "item_name": "WRIST WATCH",
+    "description": "WRIST WATCH",
+    "quantity": "1",
+    "station": "SECTOR - 52 NOIDA",
+    "receiving_date": "2026-07-01",
+    "receiving_time": "19:00:00"
+  },
+  {
+    "id": 25182,
+    "item_name": "EARBUD CASE WITH",
+    "description": "BOTH EARBUDS",
+    "quantity": "1",
+    "station": "MANDI HOUSE",
+    "receiving_date": "2026-07-01",
+    "receiving_time": "20:18:00"
+  },
+  {
+    "id": 25184,
+    "item_name": "EARBUD CASE WITH",
+    "description": "EARBUDS, LUNCH BAG",
+    "quantity": "1",
+    "station": "SIKANDERPUR",
+    "receiving_date": "2026-07-01",
+    "receiving_time": "21:30:00"
+  },
+  {
     "id": 25150,
     "item_name": "BAGPACK  WITH",
     "description": "UMBRELLA , SLEEPER AND USED CLOTHES",
@@ -106,6 +178,42 @@
     "station": "SECTOR - 34 NOIDA",
     "receiving_date": "2026-06-30",
     "receiving_time": "13:35:00"
+  },
+  {
+    "id": 25171,
+    "item_name": "CARRY BAG WITH",
+    "description": "BOOK, TOWEL, PEN, SPOON, CASH",
+    "quantity": "1",
+    "station": "DELHI AEROCITY",
+    "receiving_date": "2026-06-30",
+    "receiving_time": "20:07:00"
+  },
+  {
+    "id": 25175,
+    "item_name": "BAG",
+    "description": "BAG",
+    "quantity": "1",
+    "station": "TERMINAL 1-IGI AIRPORT",
+    "receiving_date": "2026-06-30",
+    "receiving_time": "12:05:00"
+  },
+  {
+    "id": 25181,
+    "item_name": "GUITAR WITH",
+    "description": "AMPLIFIER AND CABLE",
+    "quantity": "1",
+    "station": "JANAKPURI EAST",
+    "receiving_date": "2026-06-30",
+    "receiving_time": "21:00:00"
+  },
+  {
+    "id": 25183,
+    "item_name": "WALLET WITH",
+    "description": "ADHAR, DL NAME OF AMIT KUMAR GUPTA, CASH, ATM CARD",
+    "quantity": "1",
+    "station": "NOIDA SECTOR-15",
+    "receiving_date": "2026-06-30",
+    "receiving_time": "21:54:00"
   },
   {
     "id": 25115,
@@ -234,6 +342,15 @@
     "receiving_time": "22:30:00"
   },
   {
+    "id": 25172,
+    "item_name": "BAG WITH",
+    "description": "WATER BOTTLE, UMBRELLA, BOOK, NOTE BOOK, PANT, COSMETICS ITEMS",
+    "quantity": "1",
+    "station": "SUBHASH NAGAR",
+    "receiving_date": "2026-06-29",
+    "receiving_time": "20:30:00"
+  },
+  {
     "id": 25137,
     "item_name": "WALLET WITH",
     "description": "BANK CARD, VOTER ID OF BIPIN BIHARI SHRIVASTAV, CASH",
@@ -259,6 +376,15 @@
     "station": "UTTAM NAGAR EAST",
     "receiving_date": "2026-06-28",
     "receiving_time": "12:40:00"
+  },
+  {
+    "id": 25174,
+    "item_name": "PHOTO FRAME",
+    "description": "PHOTO FRAME",
+    "quantity": "1",
+    "station": "TERMINAL 1-IGI AIRPORT",
+    "receiving_date": "2026-06-28",
+    "receiving_time": "13:00:00"
   },
   {
     "id": 25124,
@@ -199402,131 +199528,5 @@
     "station": "NEW DELHI (Yellow & Airport Line)",
     "receiving_date": "2022-06-02",
     "receiving_time": "10:30:00"
-  },
-  {
-    "id": 2481,
-    "item_name": "HEADPHONE",
-    "description": "",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "17:10:00"
-  },
-  {
-    "id": 2482,
-    "item_name": "HELMET",
-    "description": "",
-    "quantity": null,
-    "station": "TIS HAZARI",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "09:10:00"
-  },
-  {
-    "id": 2483,
-    "item_name": "BOTTLE",
-    "description": "",
-    "quantity": null,
-    "station": "VISHWAVIDYALAYA",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "21:30:00"
-  },
-  {
-    "id": 2489,
-    "item_name": "BOTTLE",
-    "description": "",
-    "quantity": null,
-    "station": "BOTANICAL GARDEN",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "21:40:00"
-  },
-  {
-    "id": 2490,
-    "item_name": "photo frame OF VINAY KUAMR",
-    "description": "",
-    "quantity": null,
-    "station": "HAUZ KHAS",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "07:45:00"
-  },
-  {
-    "id": 2491,
-    "item_name": "SHOES",
-    "description": "",
-    "quantity": null,
-    "station": "ROHINI SECTOR - 18, 19",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "14:30:00"
-  },
-  {
-    "id": 2493,
-    "item_name": "AUTO MIRROR",
-    "description": "",
-    "quantity": null,
-    "station": "KASHMERE GATE",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "21:20:00"
-  },
-  {
-    "id": 2495,
-    "item_name": "POLY BAG",
-    "description": "DIAPERS ,CHARGER",
-    "quantity": null,
-    "station": "KASHMERE GATE",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "15:45:00"
-  },
-  {
-    "id": 2502,
-    "item_name": "BAG",
-    "description": "CLOTHS POWER BANK EARPHONE PURSE",
-    "quantity": null,
-    "station": "AZADPUR",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "16:00:00"
-  },
-  {
-    "id": 2514,
-    "item_name": "PURSE",
-    "description": "AADHAR PAN BANK CARD METRO CARD OF NITESH KUMAR",
-    "quantity": null,
-    "station": "SEELAMPUR",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "19:00:00"
-  },
-  {
-    "id": 2530,
-    "item_name": "BAG",
-    "description": "BOTTLE",
-    "quantity": null,
-    "station": "SAROJINI NAGAR",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "13:40:00"
-  },
-  {
-    "id": 2532,
-    "item_name": "EARBUDS",
-    "description": "",
-    "quantity": null,
-    "station": "OKHLA BIRD SANCTUARY",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "20:00:00"
-  },
-  {
-    "id": 2538,
-    "item_name": "EARBUD",
-    "description": "",
-    "quantity": null,
-    "station": "MILLENNIUM CITY CENTRE GURUGRAM",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "22:00:00"
-  },
-  {
-    "id": 2539,
-    "item_name": "TOP",
-    "description": "",
-    "quantity": null,
-    "station": "LAJPAT NAGAR",
-    "receiving_date": "2022-06-02",
-    "receiving_time": "21:20:00"
   }
 ]
