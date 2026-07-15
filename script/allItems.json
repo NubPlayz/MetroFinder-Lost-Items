@@ -9,6 +9,15 @@
     "receiving_time": "11:00:00"
   },
   {
+    "id": 25255,
+    "item_name": "BACKPACK BAG WITH",
+    "description": "OLD CLOTHES, TOY",
+    "quantity": "1",
+    "station": "DILLI HAAT - INA",
+    "receiving_date": "2026-07-08",
+    "receiving_time": "10:15:00"
+  },
+  {
     "id": 25215,
     "item_name": "LADIES HAND PURSE WITH",
     "description": "RING, CHAIN JHUMKA AND BANGEL",
@@ -16,6 +25,96 @@
     "station": "PATEL CHOWK",
     "receiving_date": "2026-07-07",
     "receiving_time": "23:41:00"
+  },
+  {
+    "id": 25252,
+    "item_name": "UMBRELLA",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "RAJ BAGH",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "18:21:00"
+  },
+  {
+    "id": 25253,
+    "item_name": "WALLET WITH",
+    "description": "DL, AADHAAR CARD, PAN CARD OF YASHPAL VIG, CASH",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "12:47:00"
+  },
+  {
+    "id": 25257,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "DELHI AEROCITY",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "20:25:00"
+  },
+  {
+    "id": 25258,
+    "item_name": "WRIST WATCH",
+    "description": "WRIST WATCH",
+    "quantity": "1",
+    "station": "RITHALA",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "15:00:00"
+  },
+  {
+    "id": 25259,
+    "item_name": "CARRY BAG WITH",
+    "description": "TRANSPARENT PLASTIC COVERS",
+    "quantity": "1",
+    "station": "RITHALA",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "15:10:00"
+  },
+  {
+    "id": 25260,
+    "item_name": "HANDBAG WITH",
+    "description": "LAPTOP, MOUSE",
+    "quantity": "1",
+    "station": "YASHOBHOOMI DWARKA SECTOR  - 25",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "12:00:00"
+  },
+  {
+    "id": 25263,
+    "item_name": "WRIST WATCH",
+    "description": "WRIST WATCH",
+    "quantity": "1",
+    "station": "JANAKPURI EAST",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "09:15:00"
+  },
+  {
+    "id": 25266,
+    "item_name": "LUNCH BAG",
+    "description": "LUNCH BAG",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 12",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "15:30:00"
+  },
+  {
+    "id": 25267,
+    "item_name": "UMBRELLA",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 12",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "17:45:00"
+  },
+  {
+    "id": 25268,
+    "item_name": "LADIES HAND PURSE WITH",
+    "description": "CASH",
+    "quantity": "1",
+    "station": "JAHANGIRPURI",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "20:30:00"
   },
   {
     "id": 25218,
@@ -106,6 +205,33 @@
     "station": "SHAHEED STHAL ( NEW BUS ADDA)",
     "receiving_date": "2026-07-06",
     "receiving_time": "23:30:00"
+  },
+  {
+    "id": 25256,
+    "item_name": "UMBRELLA",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "ROHINI SECTOR - 18, 19",
+    "receiving_date": "2026-07-06",
+    "receiving_time": "21:00:00"
+  },
+  {
+    "id": 25261,
+    "item_name": "POWER BANK",
+    "description": "POWER BANK",
+    "quantity": "1",
+    "station": "TUGHLAKABAD STATION",
+    "receiving_date": "2026-07-06",
+    "receiving_time": "21:00:00"
+  },
+  {
+    "id": 25262,
+    "item_name": "LADIES HAND PURSE WITH",
+    "description": "BOOKS, EARBUDS WITH CASE, POWER BANK, WATER BOTTLE",
+    "quantity": "1",
+    "station": "SUBHASH NAGAR",
+    "receiving_date": "2026-07-06",
+    "receiving_time": "11:00:00"
   },
   {
     "id": 25166,
@@ -270,6 +396,15 @@
     "receiving_time": "00:05:00"
   },
   {
+    "id": 25265,
+    "item_name": "WRIST WATCH",
+    "description": "WRIST WATCH",
+    "quantity": "1",
+    "station": "SECTOR - 59 NOIDA",
+    "receiving_date": "2026-07-05",
+    "receiving_time": "18:48:00"
+  },
+  {
     "id": 25205,
     "item_name": "HAND BAG",
     "description": "HAND BAG",
@@ -358,6 +493,15 @@
     "station": "UTTAM NAGAR WEST",
     "receiving_date": "2026-07-04",
     "receiving_time": "19:00:00"
+  },
+  {
+    "id": 25264,
+    "item_name": "EARBUD CASE WITH",
+    "description": "BOTH EARBUDS",
+    "quantity": "1",
+    "station": "DURGABAI DESHMUKH SOUTH CAMPUS",
+    "receiving_date": "2026-07-04",
+    "receiving_time": "13:27:00"
   },
   {
     "id": 25187,
@@ -817,6 +961,15 @@
     "station": "VISHWAVIDYALAYA",
     "receiving_date": "2026-06-30",
     "receiving_time": "16:25:00"
+  },
+  {
+    "id": 25254,
+    "item_name": "BACKPACK BAG WITH",
+    "description": "COSMETICS, ARTIFICIAL JEWELLERY",
+    "quantity": "1",
+    "station": "DILLI HAAT - INA",
+    "receiving_date": "2026-06-30",
+    "receiving_time": "19:30:00"
   },
   {
     "id": 25115,
@@ -199375,158 +199528,5 @@
     "station": "SHAHEED STHAL ( NEW BUS ADDA)",
     "receiving_date": "2022-06-06",
     "receiving_time": "14:45:00"
-  },
-  {
-    "id": 2565,
-    "item_name": "CARRY BAG",
-    "description": "LUNCH BOX TOWEL SAFI",
-    "quantity": null,
-    "station": "RAJENDRA PLACE",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "19:00:00"
-  },
-  {
-    "id": 2566,
-    "item_name": "PURSE",
-    "description": "PAN DL BANK CARD OF VARUN SAHNI",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "22:00:00"
-  },
-  {
-    "id": 2567,
-    "item_name": "BAG",
-    "description": "JACKET CHAREGR POWER BANK SHAMPOO",
-    "quantity": null,
-    "station": "DELHI AEROCITY",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "21:00:00"
-  },
-  {
-    "id": 2568,
-    "item_name": "MUG",
-    "description": "",
-    "quantity": null,
-    "station": "SHAHDARA",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "20:00:00"
-  },
-  {
-    "id": 2569,
-    "item_name": "METRO CARD",
-    "description": "",
-    "quantity": null,
-    "station": "SHAHDARA",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "09:00:00"
-  },
-  {
-    "id": 2571,
-    "item_name": "EARBUDS",
-    "description": "",
-    "quantity": null,
-    "station": "JASOLA-APOLLO",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "19:00:00"
-  },
-  {
-    "id": 2572,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "JASOLA-APOLLO",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "10:45:00"
-  },
-  {
-    "id": 2573,
-    "item_name": "BAG",
-    "description": "TOWEL FOOT WEAR",
-    "quantity": null,
-    "station": "JAFRABAD",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "08:10:00"
-  },
-  {
-    "id": 2574,
-    "item_name": "BAG",
-    "description": "BOTTLE CLOTHS",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "12:00:00"
-  },
-  {
-    "id": 2575,
-    "item_name": "EMPTY BAG",
-    "description": "",
-    "quantity": null,
-    "station": "AIRPORT (T-3)",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "16:30:00"
-  },
-  {
-    "id": 2577,
-    "item_name": "SLING BAG",
-    "description": "CHARGER",
-    "quantity": null,
-    "station": "AIRPORT (T-3)",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "15:30:00"
-  },
-  {
-    "id": 2581,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "CHIRAG DELHI",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "08:00:00"
-  },
-  {
-    "id": 2583,
-    "item_name": "POLY BAG",
-    "description": "EMPTY PURSES",
-    "quantity": null,
-    "station": "UTTAM NAGAR WEST",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "23:00:00"
-  },
-  {
-    "id": 2584,
-    "item_name": "CARRY BAG",
-    "description": "OLD CLOTHS",
-    "quantity": null,
-    "station": "JANAKPURI WEST",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "15:00:00"
-  },
-  {
-    "id": 2585,
-    "item_name": "POLY BAG",
-    "description": "SLEEPERS PURSE",
-    "quantity": null,
-    "station": "UTTAM NAGAR EAST",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "10:30:00"
-  },
-  {
-    "id": 2586,
-    "item_name": "BAG",
-    "description": "LUNCH BOX BOTTLE EARPHONE MOBILE BACK COVER NOTE BOOK SIM CARD",
-    "quantity": null,
-    "station": "SHAHDARA",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "20:00:00"
-  },
-  {
-    "id": 2589,
-    "item_name": "SUIT CASE",
-    "description": "CLOTHS BEDSHEET OF JASVINDER SINGH",
-    "quantity": null,
-    "station": "DWARKA SECTOR - 21",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "00:04:00"
   }
 ]
