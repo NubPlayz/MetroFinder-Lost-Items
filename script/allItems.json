@@ -9,6 +9,15 @@
     "receiving_time": "11:00:00"
   },
   {
+    "id": 25278,
+    "item_name": "MOBILE PHONE (DAMAGED) WITH",
+    "description": "UMBRELLA,WATER BOTTLE",
+    "quantity": "1",
+    "station": "MILLENNIUM CITY CENTRE GURUGRAM",
+    "receiving_date": "2026-07-09",
+    "receiving_time": "19:30:00"
+  },
+  {
     "id": 25255,
     "item_name": "BACKPACK BAG WITH",
     "description": "OLD CLOTHES, TOY",
@@ -16,6 +25,69 @@
     "station": "DILLI HAAT - INA",
     "receiving_date": "2026-07-08",
     "receiving_time": "10:15:00"
+  },
+  {
+    "id": 25274,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 21",
+    "receiving_date": "2026-07-08",
+    "receiving_time": "12:00:00"
+  },
+  {
+    "id": 25275,
+    "item_name": "HELMET",
+    "description": "HELMET",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 21",
+    "receiving_date": "2026-07-08",
+    "receiving_time": "12:00:00"
+  },
+  {
+    "id": 25276,
+    "item_name": "WAIST POUCH BAG WITH",
+    "description": "CHARGER, EARBUDS WITH CASE",
+    "quantity": "1",
+    "station": "AIRPORT (T-3)",
+    "receiving_date": "2026-07-08",
+    "receiving_time": "05:14:00"
+  },
+  {
+    "id": 25277,
+    "item_name": "BACKPACK BAG WITH",
+    "description": "ONE PAIR SHOES, SOME COSMETIC ITEMS, LADIES PURSE, GOGGLES",
+    "quantity": "1",
+    "station": "MILLENNIUM CITY CENTRE GURUGRAM",
+    "receiving_date": "2026-07-08",
+    "receiving_time": "14:00:00"
+  },
+  {
+    "id": 25281,
+    "item_name": "POLYBAG WITH",
+    "description": "TWO SHIRTS, TWO PANTS, NECKBAND HEADPHONE,ONE LOWER, WALLET WITH ADHAR, PAN, APPAR, IGNOU CARD  NAME OF REGUNAGTHUAN GONMEI, WATER BOTTLE,UMBRELLA",
+    "quantity": "1",
+    "station": "UTTAM NAGAR EAST",
+    "receiving_date": "2026-07-08",
+    "receiving_time": "00:35:00"
+  },
+  {
+    "id": 25286,
+    "item_name": "LITHIUM BATTARY",
+    "description": "LITHIUM BATTARY",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 10",
+    "receiving_date": "2026-07-08",
+    "receiving_time": "12:00:00"
+  },
+  {
+    "id": 25287,
+    "item_name": "UMBRELLA",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "KAROL BAGH",
+    "receiving_date": "2026-07-08",
+    "receiving_time": "22:00:00"
   },
   {
     "id": 25215,
@@ -115,6 +187,87 @@
     "station": "JAHANGIRPURI",
     "receiving_date": "2026-07-07",
     "receiving_time": "20:30:00"
+  },
+  {
+    "id": 25269,
+    "item_name": "UMBRELLA",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "NOIDA ELECTRONIC CITY",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "17:05:00"
+  },
+  {
+    "id": 25270,
+    "item_name": "LUNCH BAG WITH",
+    "description": "CONTAINERS",
+    "quantity": "1",
+    "station": "NOIDA ELECTRONIC CITY",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "18:00:00"
+  },
+  {
+    "id": 25271,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "NOIDA ELECTRONIC CITY",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "17:20:00"
+  },
+  {
+    "id": 25272,
+    "item_name": "MOBILE PHONE",
+    "description": "MOBILE PHONE",
+    "quantity": "1",
+    "station": "NOIDA ELECTRONIC CITY",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "17:50:00"
+  },
+  {
+    "id": 25279,
+    "item_name": "LUNCH BAG WITH",
+    "description": "METRO CARD, KEY",
+    "quantity": "1",
+    "station": "JAMIA MILLIA ISLAMIA",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "11:25:00"
+  },
+  {
+    "id": 25280,
+    "item_name": "EARBUD CASE WITH",
+    "description": "ONE EARBUD",
+    "quantity": "1",
+    "station": "PATEL CHOWK",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "21:03:00"
+  },
+  {
+    "id": 25282,
+    "item_name": "WALLET WITH",
+    "description": "ADHAR,PAN,VOTER ID, FIVE BANK CARD NAME OF BHUSHAN CHANDRAKANT",
+    "quantity": "1",
+    "station": "DASHRATHPURI",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "21:10:00"
+  },
+  {
+    "id": 25283,
+    "item_name": "EARBUD CASE WITH",
+    "description": "BOTH EARBUDS",
+    "quantity": "1",
+    "station": "SECTOR - 62 NOIDA",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "11:00:00"
+  },
+  {
+    "id": 25284,
+    "item_name": "KEYPAD MOBILE PHONE",
+    "description": "KEYPAD MOBILE PHONE",
+    "quantity": "1",
+    "station": "KAUSHAMBI",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "09:55:00"
   },
   {
     "id": 25218,
@@ -232,6 +385,33 @@
     "station": "SUBHASH NAGAR",
     "receiving_date": "2026-07-06",
     "receiving_time": "11:00:00"
+  },
+  {
+    "id": 25273,
+    "item_name": "WOODEN BLOCKS",
+    "description": "WOODEN BLOCKS",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 21",
+    "receiving_date": "2026-07-06",
+    "receiving_time": "07:15:00"
+  },
+  {
+    "id": 25285,
+    "item_name": "HAND BAG WITH",
+    "description": "FOUR SAREES",
+    "quantity": "1",
+    "station": "KAUSHAMBI",
+    "receiving_date": "2026-07-06",
+    "receiving_time": "20:30:00"
+  },
+  {
+    "id": 25288,
+    "item_name": "ROLLS OF BANGLES WITH",
+    "description": "SCISSORS, CASH",
+    "quantity": "1",
+    "station": "CHANDNI CHOWK",
+    "receiving_date": "2026-07-06",
+    "receiving_time": "21:03:00"
   },
   {
     "id": 25166,
@@ -199348,185 +199528,5 @@
     "station": "RAJIV CHOWK",
     "receiving_date": "2022-06-08",
     "receiving_time": "19:30:00"
-  },
-  {
-    "id": 2629,
-    "item_name": "PURSE",
-    "description": "AADHAR PAN MERO CARD BANK CARDS CASH OF DEEPTI",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-06-08",
-    "receiving_time": "21:50:00"
-  },
-  {
-    "id": 2630,
-    "item_name": "WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "LAJPAT NAGAR",
-    "receiving_date": "2022-06-08",
-    "receiving_time": "21:15:00"
-  },
-  {
-    "id": 2631,
-    "item_name": "T SHIRTS",
-    "description": "",
-    "quantity": null,
-    "station": "CHANDNI CHOWK",
-    "receiving_date": "2022-06-08",
-    "receiving_time": "20:00:00"
-  },
-  {
-    "id": 2632,
-    "item_name": "FABRIC PIECES",
-    "description": "",
-    "quantity": null,
-    "station": "CHANDNI CHOWK",
-    "receiving_date": "2022-06-08",
-    "receiving_time": "21:30:00"
-  },
-  {
-    "id": 2633,
-    "item_name": "BAG",
-    "description": "CLOTHS CHARGER MEDICINE",
-    "quantity": null,
-    "station": "LAXMI NAGAR",
-    "receiving_date": "2022-06-08",
-    "receiving_time": "14:55:00"
-  },
-  {
-    "id": 2637,
-    "item_name": "MAT WITH COVER",
-    "description": "",
-    "quantity": null,
-    "station": "DWARKA SECTOR - 21",
-    "receiving_date": "2022-06-08",
-    "receiving_time": "20:00:00"
-  },
-  {
-    "id": 2641,
-    "item_name": "BOTTLE",
-    "description": "",
-    "quantity": null,
-    "station": "MADHUBAN CHOWK (earlier PITAMPURA)",
-    "receiving_date": "2022-06-08",
-    "receiving_time": "22:00:00"
-  },
-  {
-    "id": 2783,
-    "item_name": "RING",
-    "description": "",
-    "quantity": null,
-    "station": "ROHINI",
-    "receiving_date": "2022-06-08",
-    "receiving_time": "20:30:00"
-  },
-  {
-    "id": 2587,
-    "item_name": "FOLDER WITH DIARY DOCUMENTS OF CORRIETEN BOOMRAI",
-    "description": "",
-    "quantity": null,
-    "station": "SECTOR - 59 NOIDA",
-    "receiving_date": "2022-06-07",
-    "receiving_time": "20:10:00"
-  },
-  {
-    "id": 2588,
-    "item_name": "SLING BAG",
-    "description": "CHARGER CASH",
-    "quantity": null,
-    "station": "SECTOR - 62 NOIDA",
-    "receiving_date": "2022-06-07",
-    "receiving_time": "12:00:00"
-  },
-  {
-    "id": 2590,
-    "item_name": "WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "SAKET",
-    "receiving_date": "2022-06-07",
-    "receiving_time": "11:30:00"
-  },
-  {
-    "id": 2591,
-    "item_name": "NECK BAND",
-    "description": "",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-06-07",
-    "receiving_time": "21:00:00"
-  },
-  {
-    "id": 2597,
-    "item_name": "UMBRELLA",
-    "description": "",
-    "quantity": null,
-    "station": "KASHMERE GATE",
-    "receiving_date": "2022-06-07",
-    "receiving_time": "10:45:00"
-  },
-  {
-    "id": 2598,
-    "item_name": "BAG WITH CLOTHES",
-    "description": "",
-    "quantity": "1",
-    "station": "MANSAROVAR PARK",
-    "receiving_date": "2022-06-07",
-    "receiving_time": "20:12:00"
-  },
-  {
-    "id": 2602,
-    "item_name": "SHOES AND SHORTS",
-    "description": "",
-    "quantity": "1",
-    "station": "SAROJINI NAGAR",
-    "receiving_date": "2022-06-07",
-    "receiving_time": "21:10:00"
-  },
-  {
-    "id": 2603,
-    "item_name": "BAG WITH BOTTLE , LUNCH BOX",
-    "description": "",
-    "quantity": "1",
-    "station": "DWARKA SECTOR - 8",
-    "receiving_date": "2022-06-07",
-    "receiving_time": "20:20:00"
-  },
-  {
-    "id": 2604,
-    "item_name": "BAG WITH CLOTHES AND SHOE",
-    "description": "",
-    "quantity": "1",
-    "station": "DWARKA-KAKROLA",
-    "receiving_date": "2022-06-07",
-    "receiving_time": "18:57:00"
-  },
-  {
-    "id": 2613,
-    "item_name": "MOBILE",
-    "description": "",
-    "quantity": "1",
-    "station": "MALVIYA NAGAR",
-    "receiving_date": "2022-06-07",
-    "receiving_time": "21:20:00"
-  },
-  {
-    "id": 2562,
-    "item_name": "HAND BAG",
-    "description": "DUPATTA MASK PENCIL PEN",
-    "quantity": null,
-    "station": "DHAULA KUAN",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "14:10:00"
-  },
-  {
-    "id": 2564,
-    "item_name": "RING",
-    "description": "",
-    "quantity": null,
-    "station": "SHAHEED STHAL ( NEW BUS ADDA)",
-    "receiving_date": "2022-06-06",
-    "receiving_time": "14:45:00"
   }
 ]
