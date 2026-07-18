@@ -9,6 +9,15 @@
     "receiving_time": "23:10:00"
   },
   {
+    "id": 25316,
+    "item_name": "BRACELET",
+    "description": "BRACELET",
+    "quantity": "1",
+    "station": "DABRI MOR - JANAKPURI SOUTH",
+    "receiving_date": "2026-07-14",
+    "receiving_time": "21:25:00"
+  },
+  {
     "id": 25295,
     "item_name": "EAR RING",
     "description": "EAR RING",
@@ -16,6 +25,105 @@
     "station": "NANGLOI",
     "receiving_date": "2026-07-13",
     "receiving_time": "20:30:00"
+  },
+  {
+    "id": 25307,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "PATEL NAGAR",
+    "receiving_date": "2026-07-10",
+    "receiving_time": "21:10:00"
+  },
+  {
+    "id": 25308,
+    "item_name": "LUNCH BOX",
+    "description": "LUNCH BOX",
+    "quantity": "1",
+    "station": "PATEL NAGAR",
+    "receiving_date": "2026-07-10",
+    "receiving_time": "21:10:00"
+  },
+  {
+    "id": 25311,
+    "item_name": "BAG HAVING 01 UMBRELLA 01 STEEL TIFFIN,OLD MOBILE CHARGER,BLUTOOTH 01 BLUE COLOUR,DEBIT CARD AND CASH",
+    "description": "BLACK COLOUR BAG",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-07-10",
+    "receiving_time": "19:00:00"
+  },
+  {
+    "id": 25312,
+    "item_name": "HAND BAG 01 OLD CAP,01 MOBILE CHARGER,01 EAR PHONE,01 TRIMMER",
+    "description": "BROWN COLOUR BAG",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-07-10",
+    "receiving_time": "18:00:00"
+  },
+  {
+    "id": 25313,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "AIRPORT (T-3)",
+    "receiving_date": "2026-07-10",
+    "receiving_time": "18:00:00"
+  },
+  {
+    "id": 25314,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "AIRPORT (T-3)",
+    "receiving_date": "2026-07-10",
+    "receiving_time": "18:00:00"
+  },
+  {
+    "id": 25315,
+    "item_name": "BOOK",
+    "description": "BOOK",
+    "quantity": "1",
+    "station": "SHIVAJI STADIUM ",
+    "receiving_date": "2026-07-10",
+    "receiving_time": "20:45:00"
+  },
+  {
+    "id": 25318,
+    "item_name": "SINGLE EARBUD WITH CASE",
+    "description": "DAMAGED",
+    "quantity": "1",
+    "station": "DASHRATHPURI",
+    "receiving_date": "2026-07-10",
+    "receiving_time": "12:00:00"
+  },
+  {
+    "id": 25320,
+    "item_name": "BAG HAVING OLD CLOTHES AND 01 CHARGER",
+    "description": "BLUE BAG",
+    "quantity": "1",
+    "station": "IFFCO CHOWK",
+    "receiving_date": "2026-07-10",
+    "receiving_time": "20:15:00"
+  },
+  {
+    "id": 25321,
+    "item_name": "UMBRELLA",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "IFFCO CHOWK",
+    "receiving_date": "2026-07-10",
+    "receiving_time": "21:00:00"
+  },
+  {
+    "id": 25323,
+    "item_name": "MOBILE PHONE (DAMAGED) WITH",
+    "description": "USB CABLE",
+    "quantity": "1",
+    "station": "SHAKURPUR",
+    "receiving_date": "2026-07-10",
+    "receiving_time": "12:49:00"
   },
   {
     "id": 25209,
@@ -70,6 +178,24 @@
     "station": "SECTOR - 59 NOIDA",
     "receiving_date": "2026-07-09",
     "receiving_time": "21:12:00"
+  },
+  {
+    "id": 25309,
+    "item_name": "UMBRELLA",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "TIS HAZARI",
+    "receiving_date": "2026-07-09",
+    "receiving_time": "15:00:00"
+  },
+  {
+    "id": 25322,
+    "item_name": "WRIST WATCH",
+    "description": "WRIST WATCH",
+    "quantity": "1",
+    "station": "SECTOR - 34 NOIDA",
+    "receiving_date": "2026-07-09",
+    "receiving_time": "11:48:00"
   },
   {
     "id": 25255,
@@ -232,6 +358,24 @@
     "station": "SECTOR - 52 NOIDA",
     "receiving_date": "2026-07-08",
     "receiving_time": "21:00:00"
+  },
+  {
+    "id": 25319,
+    "item_name": "A BALCK COLOUR BAG HAVING 01 BELT 01 WRIST WATCH01 CLUTCHER 01 COMB",
+    "description": "BALCK COLOUR BAG",
+    "quantity": "1",
+    "station": "CHANDNI CHOWK",
+    "receiving_date": "2026-07-08",
+    "receiving_time": "21:30:00"
+  },
+  {
+    "id": 25324,
+    "item_name": "A BLACK COLOUR BAG HAVING 01 GK BOOK 01 WRIST WATCH,01 WHITE CHARGER",
+    "description": "A BLACK COLOUR BAG",
+    "quantity": "1",
+    "station": "SHAHEED STHAL ( NEW BUS ADDA)",
+    "receiving_date": "2026-07-08",
+    "receiving_time": "16:50:00"
   },
   {
     "id": 25215,
@@ -412,6 +556,24 @@
     "station": "KAUSHAMBI",
     "receiving_date": "2026-07-07",
     "receiving_time": "09:55:00"
+  },
+  {
+    "id": 25310,
+    "item_name": "01 LUNCH BAG",
+    "description": "WITH 02 CINTAINERS",
+    "quantity": "1",
+    "station": "TIS HAZARI",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "09:32:00"
+  },
+  {
+    "id": 25317,
+    "item_name": "BRACELET",
+    "description": "BRACELET",
+    "quantity": "1",
+    "station": "DWARKA-KAKROLA",
+    "receiving_date": "2026-07-07",
+    "receiving_time": "14:00:00"
   },
   {
     "id": 25218,
@@ -199366,167 +199528,5 @@
     "station": "KASHMERE GATE",
     "receiving_date": "2022-06-09",
     "receiving_time": "19:50:00"
-  },
-  {
-    "id": 2618,
-    "item_name": "photo frame",
-    "description": "",
-    "quantity": null,
-    "station": "KASHMERE GATE",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "17:40:00"
-  },
-  {
-    "id": 2621,
-    "item_name": "BASIC MOBILE",
-    "description": "",
-    "quantity": null,
-    "station": "NOIDA ELECTRONIC CITY",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "21:40:00"
-  },
-  {
-    "id": 2622,
-    "item_name": "PURSE",
-    "description": "PAN CARD BANK CARD CASH METRO CARD OF YASHASVI SINGH",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "12:40:00"
-  },
-  {
-    "id": 2623,
-    "item_name": "METRO CARD",
-    "description": "",
-    "quantity": null,
-    "station": "AIRPORT (T-3)",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "14:00:00"
-  },
-  {
-    "id": 2624,
-    "item_name": "PAPER BAG WITH LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "ROHINI",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "10:00:00"
-  },
-  {
-    "id": 2625,
-    "item_name": "EAR RING",
-    "description": "",
-    "quantity": null,
-    "station": "INDERLOK",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "12:00:00"
-  },
-  {
-    "id": 2636,
-    "item_name": "HELMET",
-    "description": "",
-    "quantity": null,
-    "station": "WELCOME",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "21:00:00"
-  },
-  {
-    "id": 2638,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "DWARKA SECTOR - 10",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "07:30:00"
-  },
-  {
-    "id": 2639,
-    "item_name": "sun glass",
-    "description": "",
-    "quantity": null,
-    "station": "NANGLI",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "13:00:00"
-  },
-  {
-    "id": 2640,
-    "item_name": "HEALTH BAND",
-    "description": "",
-    "quantity": null,
-    "station": "PUNJABI BAGH",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "14:50:00"
-  },
-  {
-    "id": 2642,
-    "item_name": "BAG",
-    "description": "MOBILE CHARGER WATC AADHAR CLOTHS OF SAKIB",
-    "quantity": null,
-    "station": "JAHANGIRPURI",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "07:00:00"
-  },
-  {
-    "id": 2643,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "JOHRI ENCLAVE",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "12:00:00"
-  },
-  {
-    "id": 2645,
-    "item_name": "BAG",
-    "description": "CLOTHS",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "20:50:00"
-  },
-  {
-    "id": 2648,
-    "item_name": "BASIC MOBILE",
-    "description": "",
-    "quantity": null,
-    "station": "GREEN PARK",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "19:15:00"
-  },
-  {
-    "id": 2649,
-    "item_name": "BAG",
-    "description": "SOCKS EARPHONE SUN GLASS BOOK",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "12:40:00"
-  },
-  {
-    "id": 2653,
-    "item_name": "BANK CARD",
-    "description": "",
-    "quantity": null,
-    "station": "MAYAPURI",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "14:00:00"
-  },
-  {
-    "id": 2664,
-    "item_name": "BOTTLE",
-    "description": "",
-    "quantity": null,
-    "station": "CHHATARPUR",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "21:50:00"
-  },
-  {
-    "id": 2706,
-    "item_name": "BAG",
-    "description": "RAZOR COSMETICS",
-    "quantity": null,
-    "station": "MILLENNIUM CITY CENTRE GURUGRAM",
-    "receiving_date": "2022-06-09",
-    "receiving_time": "22:00:00"
   }
 ]
