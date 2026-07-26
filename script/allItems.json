@@ -36,6 +36,33 @@
     "receiving_time": "21:30:00"
   },
   {
+    "id": 25423,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "SECTOR - 52 NOIDA",
+    "receiving_date": "2026-07-18",
+    "receiving_time": "21:40:00"
+  },
+  {
+    "id": 25424,
+    "item_name": "T - SHAP LIGHT",
+    "description": "T - SHAP LIGHT",
+    "quantity": "1",
+    "station": "KRISHNA NAGAR",
+    "receiving_date": "2026-07-18",
+    "receiving_time": "20:51:00"
+  },
+  {
+    "id": 25425,
+    "item_name": "POLYBAG WITH",
+    "description": "DUPATTA AND POTLI BAG",
+    "quantity": "1",
+    "station": "JANAKPURI WEST",
+    "receiving_date": "2026-07-18",
+    "receiving_time": "23:00:00"
+  },
+  {
     "id": 25328,
     "item_name": "UMBRELLA",
     "description": "UMBRELLA",
@@ -88,6 +115,42 @@
     "station": "DWARKA SECTOR - 21",
     "receiving_date": "2026-07-17",
     "receiving_time": "06:30:00"
+  },
+  {
+    "id": 25421,
+    "item_name": "BACKPACK BAG",
+    "description": "BACKPACK BAG",
+    "quantity": "1",
+    "station": "RAJ BAGH",
+    "receiving_date": "2026-07-17",
+    "receiving_time": "12:30:00"
+  },
+  {
+    "id": 25427,
+    "item_name": "BAGPACK  WITH",
+    "description": "TOWEL,DATACABLE,EARBUDS,EARRING,LUNCH BOX, BABY MASSAGE OIL,GOGGLES",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 11",
+    "receiving_date": "2026-07-17",
+    "receiving_time": "20:50:00"
+  },
+  {
+    "id": 25428,
+    "item_name": "EARBUD CASE WITH",
+    "description": "TWO EARBUDS",
+    "quantity": "1",
+    "station": "JAMIA MILLIA ISLAMIA",
+    "receiving_date": "2026-07-17",
+    "receiving_time": "20:22:00"
+  },
+  {
+    "id": 25429,
+    "item_name": "KEYPAD MOBILE PHONE",
+    "description": "KEYPAD MOBILE PHONE",
+    "quantity": "1",
+    "station": "CHANDNI CHOWK",
+    "receiving_date": "2026-07-17",
+    "receiving_time": "23:10:00"
   },
   {
     "id": 25397,
@@ -556,6 +619,15 @@
     "station": "KASHMERE GATE",
     "receiving_date": "2026-07-13",
     "receiving_time": "21:30:00"
+  },
+  {
+    "id": 25422,
+    "item_name": "WRIST WATCH WITH",
+    "description": "EARBUDS WITH CASE",
+    "quantity": "1",
+    "station": "NEHRU PLACE",
+    "receiving_date": "2026-07-13",
+    "receiving_time": "20:20:00"
   },
   {
     "id": 25295,
@@ -199456,77 +199528,5 @@
     "station": "SARAI KALE KHAN - NIZAMUDDIN",
     "receiving_date": "2022-06-14",
     "receiving_time": "09:15:00"
-  },
-  {
-    "id": 2737,
-    "item_name": "BAG",
-    "description": "CLOTHS SHOES BLANKET UTENCIL  OF MK GUPTA",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-06-14",
-    "receiving_time": "12:00:00"
-  },
-  {
-    "id": 2738,
-    "item_name": "TROLLEY BAG",
-    "description": "CLOTHS MARKER SCREW DRIVER",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-06-14",
-    "receiving_time": "17:15:00"
-  },
-  {
-    "id": 2739,
-    "item_name": "CARRY BAG",
-    "description": "PAYAL RING TIFFIN BOTTLE",
-    "quantity": null,
-    "station": "IFFCO CHOWK",
-    "receiving_date": "2022-06-14",
-    "receiving_time": "15:00:00"
-  },
-  {
-    "id": 2743,
-    "item_name": "POLY BAG",
-    "description": "SHOES",
-    "quantity": null,
-    "station": "GURU TEG BAHADUR NAGAR",
-    "receiving_date": "2022-06-14",
-    "receiving_time": "19:30:00"
-  },
-  {
-    "id": 2744,
-    "item_name": "SOCKS",
-    "description": "",
-    "quantity": null,
-    "station": "VIDHAN SABHA",
-    "receiving_date": "2022-06-14",
-    "receiving_time": "10:00:00"
-  },
-  {
-    "id": 2748,
-    "item_name": "BAG",
-    "description": "BAT BALL TIFFIN",
-    "quantity": null,
-    "station": "NAWADA",
-    "receiving_date": "2022-06-14",
-    "receiving_time": "21:00:00"
-  },
-  {
-    "id": 2755,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "AIRPORT (T-3)",
-    "receiving_date": "2022-06-14",
-    "receiving_time": "20:35:00"
-  },
-  {
-    "id": 2759,
-    "item_name": "WATER BOTTLE",
-    "description": "",
-    "quantity": null,
-    "station": "LAJPAT NAGAR",
-    "receiving_date": "2022-06-14",
-    "receiving_time": "20:51:00"
   }
 ]
