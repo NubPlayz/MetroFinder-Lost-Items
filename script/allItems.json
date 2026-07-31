@@ -9,6 +9,69 @@
     "receiving_time": "10:00:00"
   },
   {
+    "id": 25487,
+    "item_name": "BAG WITH",
+    "description": "CASH",
+    "quantity": "1",
+    "station": "IFFCO CHOWK",
+    "receiving_date": "2026-07-23",
+    "receiving_time": "20:37:00"
+  },
+  {
+    "id": 25488,
+    "item_name": "LUNCH BAG WITH",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "DILLI HAAT - INA",
+    "receiving_date": "2026-07-23",
+    "receiving_time": "13:40:00"
+  },
+  {
+    "id": 25490,
+    "item_name": "WALLET WITH",
+    "description": "DL. ,PAN NAME OF SHIV KUMAR SHARMA, FOREIGN CURRENCY, CASH",
+    "quantity": "1",
+    "station": "AIRPORT (T-3)",
+    "receiving_date": "2026-07-23",
+    "receiving_time": "13:54:00"
+  },
+  {
+    "id": 25491,
+    "item_name": "TIFFIN BAG WITH",
+    "description": "GLASS BOWLS, PLASTIC BOTTLE, SMALL GLASS JAR",
+    "quantity": "1",
+    "station": "YASHOBHOOMI DWARKA SECTOR  - 25",
+    "receiving_date": "2026-07-23",
+    "receiving_time": "16:00:00"
+  },
+  {
+    "id": 25492,
+    "item_name": "MOBILE PHONE",
+    "description": "MOBILE PHONE",
+    "quantity": "1",
+    "station": "YASHOBHOOMI DWARKA SECTOR  - 25",
+    "receiving_date": "2026-07-23",
+    "receiving_time": "13:00:00"
+  },
+  {
+    "id": 25494,
+    "item_name": "UMBRELLA WITH",
+    "description": "EARBUDS WITH CASE, LADIES T-SHIRT,INNER WEAR",
+    "quantity": "1",
+    "station": "UTTAM NAGAR EAST",
+    "receiving_date": "2026-07-23",
+    "receiving_time": "19:40:00"
+  },
+  {
+    "id": 25496,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "SECTOR - 52 NOIDA",
+    "receiving_date": "2026-07-23",
+    "receiving_time": "21:00:00"
+  },
+  {
     "id": 25458,
     "item_name": "PURSE WITH",
     "description": "AADHAAR CARD OF MITANJALI MOHAPATRA, BANK CARDS, CASH",
@@ -88,6 +151,60 @@
     "station": "PATEL NAGAR",
     "receiving_date": "2026-07-22",
     "receiving_time": "20:30:00"
+  },
+  {
+    "id": 25485,
+    "item_name": "POLYBAG WITH",
+    "description": "POWER BANK, WIRE CUTTERS",
+    "quantity": "1",
+    "station": "DWARKA-KAKROLA",
+    "receiving_date": "2026-07-22",
+    "receiving_time": "12:20:00"
+  },
+  {
+    "id": 25486,
+    "item_name": "UMBRELLA WITH",
+    "description": "WATCH, EARBUDS WITH CASE",
+    "quantity": "1",
+    "station": "KAROL BAGH",
+    "receiving_date": "2026-07-22",
+    "receiving_time": "21:16:00"
+  },
+  {
+    "id": 25489,
+    "item_name": "BAG WITH",
+    "description": "LADIES HAND PURSE, WRIST WATCH, COSMETIC, USED CLOTHES, BANGLES",
+    "quantity": "1",
+    "station": "MOOLCHAND",
+    "receiving_date": "2026-07-22",
+    "receiving_time": "13:58:00"
+  },
+  {
+    "id": 25493,
+    "item_name": "UMBRELLA",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "M.G. ROAD",
+    "receiving_date": "2026-07-22",
+    "receiving_time": "21:27:00"
+  },
+  {
+    "id": 25495,
+    "item_name": "WRIST WATCH",
+    "description": "WRIST WATCH",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 12",
+    "receiving_date": "2026-07-22",
+    "receiving_time": "19:20:00"
+  },
+  {
+    "id": 25497,
+    "item_name": "WALLET WITH",
+    "description": "CASH, FOREIGN CURRENCY, ADHAR, PAN NAME OF LAXMI",
+    "quantity": "1",
+    "station": "SAROJINI NAGAR",
+    "receiving_date": "2026-07-22",
+    "receiving_time": "23:55:00"
   },
   {
     "id": 25420,
@@ -223,6 +340,15 @@
     "station": "KASHMERE GATE",
     "receiving_date": "2026-07-21",
     "receiving_time": "11:38:00"
+  },
+  {
+    "id": 25498,
+    "item_name": "KARATE KIT BAG",
+    "description": "KARATE KIT BAG",
+    "quantity": "1",
+    "station": "SAROJINI NAGAR",
+    "receiving_date": "2026-07-21",
+    "receiving_time": "17:00:00"
   },
   {
     "id": 25403,
@@ -199402,131 +199528,5 @@
     "station": "NEW DELHI (Yellow & Airport Line)",
     "receiving_date": "2022-06-18",
     "receiving_time": "13:15:00"
-  },
-  {
-    "id": 2858,
-    "item_name": "SLEEPERS",
-    "description": "",
-    "quantity": "1",
-    "station": "LAL QUILA",
-    "receiving_date": "2022-06-18",
-    "receiving_time": "20:45:00"
-  },
-  {
-    "id": 2865,
-    "item_name": "HELMET",
-    "description": "",
-    "quantity": "1",
-    "station": "NOIDA ELECTRONIC CITY",
-    "receiving_date": "2022-06-18",
-    "receiving_time": "20:05:00"
-  },
-  {
-    "id": 2871,
-    "item_name": "SLIPPERS",
-    "description": "",
-    "quantity": "1",
-    "station": "CHANDNI CHOWK",
-    "receiving_date": "2022-06-18",
-    "receiving_time": "20:00:00"
-  },
-  {
-    "id": 2791,
-    "item_name": "METRO CARD",
-    "description": "",
-    "quantity": null,
-    "station": "SHIVAJI STADIUM ",
-    "receiving_date": "2022-06-18",
-    "receiving_time": "12:10:00"
-  },
-  {
-    "id": 2794,
-    "item_name": "PURSE",
-    "description": "DL AADHAR CASH OF PRAKASH",
-    "quantity": null,
-    "station": "AIRPORT (T-3)",
-    "receiving_date": "2022-06-18",
-    "receiving_time": "07:30:00"
-  },
-  {
-    "id": 2797,
-    "item_name": "BAG",
-    "description": "PHOTO COPY DIARY",
-    "quantity": null,
-    "station": "NEW DELHI (Yellow & Airport Line)",
-    "receiving_date": "2022-06-18",
-    "receiving_time": "13:30:00"
-  },
-  {
-    "id": 2800,
-    "item_name": "POUCH",
-    "description": "LOTION PERFUME",
-    "quantity": null,
-    "station": "HAUZ KHAS",
-    "receiving_date": "2022-06-18",
-    "receiving_time": "20:00:00"
-  },
-  {
-    "id": 2801,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "SHAHDARA",
-    "receiving_date": "2022-06-18",
-    "receiving_time": "08:00:00"
-  },
-  {
-    "id": 2802,
-    "item_name": "LUNCH BOX  BOTTLE",
-    "description": "",
-    "quantity": null,
-    "station": "PEERAGARHI",
-    "receiving_date": "2022-06-18",
-    "receiving_time": "21:00:00"
-  },
-  {
-    "id": 2806,
-    "item_name": "ENVELOPE",
-    "description": "SHIRT",
-    "quantity": null,
-    "station": "PATEL CHOWK",
-    "receiving_date": "2022-06-18",
-    "receiving_time": "13:20:00"
-  },
-  {
-    "id": 2815,
-    "item_name": "BAG",
-    "description": "LUNCH BOX BOTTLE",
-    "quantity": null,
-    "station": "KALKAJI MANDIR",
-    "receiving_date": "2022-06-18",
-    "receiving_time": "14:00:00"
-  },
-  {
-    "id": 2822,
-    "item_name": "CARRY BAG",
-    "description": "VESTS",
-    "quantity": null,
-    "station": "NETAJI SUBHASH PLACE",
-    "receiving_date": "2022-06-17",
-    "receiving_time": "11:50:00"
-  },
-  {
-    "id": 2825,
-    "item_name": "LUNCH BAG",
-    "description": "LUNCH BOX",
-    "quantity": null,
-    "station": "DWARKA SECTOR - 8",
-    "receiving_date": "2022-06-17",
-    "receiving_time": "14:10:00"
-  },
-  {
-    "id": 2826,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": null,
-    "station": "DWARKA SECTOR - 8",
-    "receiving_date": "2022-06-17",
-    "receiving_time": "16:45:00"
   }
 ]
