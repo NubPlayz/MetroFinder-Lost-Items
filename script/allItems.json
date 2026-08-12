@@ -9,6 +9,78 @@
     "receiving_time": "12:05:00"
   },
   {
+    "id": 25645,
+    "item_name": "EARING",
+    "description": "SINGLE EARING",
+    "quantity": "1",
+    "station": "ROHINI SECTOR - 18, 19",
+    "receiving_date": "2026-08-04",
+    "receiving_time": "18:00:00"
+  },
+  {
+    "id": 25648,
+    "item_name": "EARBUD CASE WITH",
+    "description": "EARBUDS",
+    "quantity": "1",
+    "station": "CHAWRI BAZAR",
+    "receiving_date": "2026-08-04",
+    "receiving_time": "12:30:00"
+  },
+  {
+    "id": 25650,
+    "item_name": "POLYBAG WITH",
+    "description": "TOWEL, T-SHIRT, SOCKS",
+    "quantity": "1",
+    "station": "JAMA MASJID",
+    "receiving_date": "2026-08-04",
+    "receiving_time": "07:30:00"
+  },
+  {
+    "id": 25651,
+    "item_name": "CLOTH CARRY BAG WITH",
+    "description": "SMALL HAND BAG, KEY",
+    "quantity": "1",
+    "station": "AIRPORT (T-3)",
+    "receiving_date": "2026-08-04",
+    "receiving_time": "23:23:00"
+  },
+  {
+    "id": 25652,
+    "item_name": "EARBUD CASE WITH",
+    "description": "BOTH EARBUDS",
+    "quantity": "1",
+    "station": "BOTANICAL GARDEN",
+    "receiving_date": "2026-08-04",
+    "receiving_time": "06:30:00"
+  },
+  {
+    "id": 25654,
+    "item_name": "UMBRELLA",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "M.G. ROAD",
+    "receiving_date": "2026-08-04",
+    "receiving_time": "21:05:00"
+  },
+  {
+    "id": 25655,
+    "item_name": "UMBRELLA",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "M.G. ROAD",
+    "receiving_date": "2026-08-04",
+    "receiving_time": "21:05:00"
+  },
+  {
+    "id": 25663,
+    "item_name": "LADIES SUIT WITH",
+    "description": "SHIRT, BLEACH CREAM BOX",
+    "quantity": "1",
+    "station": "CHANDNI CHOWK",
+    "receiving_date": "2026-08-04",
+    "receiving_time": "21:45:00"
+  },
+  {
     "id": 25605,
     "item_name": "BRACELET",
     "description": "BRACELET",
@@ -70,6 +142,51 @@
     "station": "UTTAM NAGAR EAST",
     "receiving_date": "2026-08-03",
     "receiving_time": "20:22:00"
+  },
+  {
+    "id": 25642,
+    "item_name": "POWER BANK WITH",
+    "description": "CHARGER CABLE",
+    "quantity": "1",
+    "station": "RAJ BAGH",
+    "receiving_date": "2026-08-03",
+    "receiving_time": "17:40:00"
+  },
+  {
+    "id": 25649,
+    "item_name": "EARBUD CASE WITH",
+    "description": "ONE EARBUD AND LADIES SANDAL",
+    "quantity": "1",
+    "station": "MOTI NAGAR",
+    "receiving_date": "2026-08-03",
+    "receiving_time": "19:30:00"
+  },
+  {
+    "id": 25653,
+    "item_name": "LEHANGA",
+    "description": "LEHANGA",
+    "quantity": "1",
+    "station": "M.G. ROAD",
+    "receiving_date": "2026-08-03",
+    "receiving_time": "16:20:00"
+  },
+  {
+    "id": 25656,
+    "item_name": "WALLET WITH",
+    "description": "ADHAR, PAN, DL, HEALTH CARD NAME OF PARTAP SINGH , ONE PASSPORT SIZE PHOTO",
+    "quantity": "1",
+    "station": "SEELAMPUR",
+    "receiving_date": "2026-08-03",
+    "receiving_time": "12:00:00"
+  },
+  {
+    "id": 25657,
+    "item_name": "UMBRELLA",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "SIKANDERPUR",
+    "receiving_date": "2026-08-03",
+    "receiving_time": "13:15:00"
   },
   {
     "id": 25556,
@@ -144,13 +261,49 @@
     "receiving_time": "11:00:00"
   },
   {
-    "id": 25644,
-    "item_name": "SPRAY PANT BOTTLE",
-    "description": "SPRAY PANT BOTTLE",
+    "id": 25646,
+    "item_name": "LUNCH BAG WITH",
+    "description": "GLASS CONTAINERS",
     "quantity": "1",
-    "station": "SECTOR - 52 NOIDA",
+    "station": "NEW DELHI (Yellow & Airport Line)",
     "receiving_date": "2026-08-02",
-    "receiving_time": "13:00:00"
+    "receiving_time": "21:00:00"
+  },
+  {
+    "id": 25647,
+    "item_name": "BACKPACK BAG WITH",
+    "description": "CLOTHES, CHARGER, PACKETS OF HAND FAN",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-08-02",
+    "receiving_time": "21:45:00"
+  },
+  {
+    "id": 25659,
+    "item_name": "POLYBAG WITH",
+    "description": "LADIES SUIT CLOTHS",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-08-02",
+    "receiving_time": "21:05:00"
+  },
+  {
+    "id": 25660,
+    "item_name": "BAG WITH",
+    "description": "MIXER JAR",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-08-02",
+    "receiving_time": "20:30:00"
+  },
+  {
+    "id": 25662,
+    "item_name": "BACKPACK BAG WITH",
+    "description": "OLD CLOTHES",
+    "quantity": "1",
+    "station": "CHANDNI CHOWK",
+    "receiving_date": "2026-08-02",
+    "receiving_time": "21:45:00"
   },
   {
     "id": 25608,
@@ -277,6 +430,15 @@
     "station": "KASHMERE GATE",
     "receiving_date": "2026-08-01",
     "receiving_time": "23:59:00"
+  },
+  {
+    "id": 25661,
+    "item_name": "WRIST WATCH WITH",
+    "description": "LADIES SUITS, POTLI, WATER BOTTLE JUTE BAG",
+    "quantity": "1",
+    "station": "CHANDNI CHOWK",
+    "receiving_date": "2026-08-01",
+    "receiving_time": "21:45:00"
   },
   {
     "id": 25600,
@@ -199366,167 +199528,5 @@
     "station": "JANAKPURI WEST",
     "receiving_date": "2022-06-26",
     "receiving_time": "09:56:00"
-  },
-  {
-    "id": 2985,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": "1",
-    "station": "RAMAKRISHNA ASHRAM MARG",
-    "receiving_date": "2022-06-26",
-    "receiving_time": "15:05:00"
-  },
-  {
-    "id": 2987,
-    "item_name": "CARRY BAG",
-    "description": "T SHIRT JEANS PANT",
-    "quantity": null,
-    "station": "TIS HAZARI",
-    "receiving_date": "2022-06-26",
-    "receiving_time": "22:30:00"
-  },
-  {
-    "id": 2988,
-    "item_name": "CARRY BAG",
-    "description": "T SHIRT LOWER",
-    "quantity": null,
-    "station": "TIS HAZARI",
-    "receiving_date": "2022-06-26",
-    "receiving_time": "22:30:00"
-  },
-  {
-    "id": 2989,
-    "item_name": "WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "MAYUR VIHAR -I",
-    "receiving_date": "2022-06-26",
-    "receiving_time": "23:30:00"
-  },
-  {
-    "id": 2990,
-    "item_name": "BOTTLE",
-    "description": "",
-    "quantity": null,
-    "station": "AIRPORT (T-3)",
-    "receiving_date": "2022-06-26",
-    "receiving_time": "23:00:00"
-  },
-  {
-    "id": 2995,
-    "item_name": "SHOES",
-    "description": "",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-06-26",
-    "receiving_time": "21:35:00"
-  },
-  {
-    "id": 2996,
-    "item_name": "CARRY BAG",
-    "description": "ID CARD NECK BAND EARPHONE CHARGER PERFUME OF ALOK KUMAR SINGH",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-06-26",
-    "receiving_time": "17:20:00"
-  },
-  {
-    "id": 2997,
-    "item_name": "PURSE",
-    "description": "CASH DL BANK CARD OF SNEHA AGARWAL",
-    "quantity": null,
-    "station": "JANGPURA",
-    "receiving_date": "2022-06-26",
-    "receiving_time": "23:45:00"
-  },
-  {
-    "id": 2999,
-    "item_name": "HAND BAG",
-    "description": "COSMETICS",
-    "quantity": null,
-    "station": "NOIDA SECTOR-18",
-    "receiving_date": "2022-06-26",
-    "receiving_time": "23:00:00"
-  },
-  {
-    "id": 3007,
-    "item_name": "SURFACE CLEANER",
-    "description": "",
-    "quantity": null,
-    "station": "DWARKA-KAKROLA",
-    "receiving_date": "2022-06-26",
-    "receiving_time": "21:20:00"
-  },
-  {
-    "id": 3010,
-    "item_name": "BAG",
-    "description": "WIND CHIME CLOTHS",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-06-26",
-    "receiving_time": "21:10:00"
-  },
-  {
-    "id": 3011,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "RAJIV CHOWK",
-    "receiving_date": "2022-06-26",
-    "receiving_time": "00:30:00"
-  },
-  {
-    "id": 2947,
-    "item_name": "OLD CLOTHES",
-    "description": "",
-    "quantity": "1",
-    "station": "DWARKA SECTOR - 21",
-    "receiving_date": "2022-06-25",
-    "receiving_time": "20:45:00"
-  },
-  {
-    "id": 2950,
-    "item_name": "USED SHOE PAIR",
-    "description": "",
-    "quantity": "1",
-    "station": "SHAHDARA",
-    "receiving_date": "2022-06-25",
-    "receiving_time": "23:56:00"
-  },
-  {
-    "id": 2955,
-    "item_name": "WALLET WITH CASH",
-    "description": "",
-    "quantity": "1",
-    "station": "DELHI AEROCITY",
-    "receiving_date": "2022-06-25",
-    "receiving_time": "10:00:00"
-  },
-  {
-    "id": 2956,
-    "item_name": "CASH",
-    "description": "",
-    "quantity": "1",
-    "station": "SHASTRI PARK",
-    "receiving_date": "2022-06-25",
-    "receiving_time": "18:45:00"
-  },
-  {
-    "id": 2957,
-    "item_name": "BANK CHEQUE",
-    "description": "",
-    "quantity": "1",
-    "station": "PUNJABI BAGH WEST",
-    "receiving_date": "2022-06-25",
-    "receiving_time": "16:10:00"
-  },
-  {
-    "id": 2961,
-    "item_name": "LADY BAG WITH CASH",
-    "description": "",
-    "quantity": "1",
-    "station": "DWARKA-KAKROLA",
-    "receiving_date": "2022-06-25",
-    "receiving_time": "12:59:00"
   }
 ]
