@@ -9,6 +9,24 @@
     "receiving_time": "19:44:00"
   },
   {
+    "id": 25777,
+    "item_name": "ONE ANKLET",
+    "description": "ONE ANKLET",
+    "quantity": "1",
+    "station": "NEHRU PLACE",
+    "receiving_date": "2026-08-16",
+    "receiving_time": "13:30:00"
+  },
+  {
+    "id": 25771,
+    "item_name": "EAR STUD",
+    "description": "EAR STUD",
+    "quantity": "1",
+    "station": "SUBHASH NAGAR",
+    "receiving_date": "2026-08-14",
+    "receiving_time": "11:15:00"
+  },
+  {
     "id": 25717,
     "item_name": "ONE ANKLET",
     "description": "ONE ANKLET",
@@ -34,6 +52,51 @@
     "station": "SIKANDERPUR",
     "receiving_date": "2026-08-11",
     "receiving_time": "22:00:00"
+  },
+  {
+    "id": 25772,
+    "item_name": "UMBRELLAS WITH",
+    "description": "WATER BOTTLES",
+    "quantity": "1",
+    "station": "NOIDA ELECTRONIC CITY",
+    "receiving_date": "2026-08-11",
+    "receiving_time": "21:00:00"
+  },
+  {
+    "id": 25773,
+    "item_name": "POLYBAG WITH",
+    "description": "T-SHIRT, SAREE AND GOGGLE",
+    "quantity": "1",
+    "station": "LAL QUILA",
+    "receiving_date": "2026-08-11",
+    "receiving_time": "12:00:00"
+  },
+  {
+    "id": 25776,
+    "item_name": "FOREIGN CURRENCY",
+    "description": "FOREIGN CURRENCY",
+    "quantity": "1",
+    "station": "DR. BABA SAHEB AMBEDKAR HOSPITAL",
+    "receiving_date": "2026-08-11",
+    "receiving_time": "20:00:00"
+  },
+  {
+    "id": 25783,
+    "item_name": "UMBRELLA WITH",
+    "description": "BOOKS",
+    "quantity": "1",
+    "station": "SECTOR - 59 NOIDA",
+    "receiving_date": "2026-08-11",
+    "receiving_time": "21:38:00"
+  },
+  {
+    "id": 25784,
+    "item_name": "PURSE WITH",
+    "description": "PAN, ATM CARD, VOTER ID NAME OF ABHAY UPADHYAY, BOTTLE, CASH",
+    "quantity": "1",
+    "station": "NOIDA SECTOR-15",
+    "receiving_date": "2026-08-11",
+    "receiving_time": "20:00:00"
   },
   {
     "id": 25668,
@@ -207,6 +270,33 @@
     "receiving_time": "21:20:00"
   },
   {
+    "id": 25769,
+    "item_name": "CARRY BAG WITH",
+    "description": "PAIR OF SHOES",
+    "quantity": "1",
+    "station": "KARKARDUMA COURT",
+    "receiving_date": "2026-08-10",
+    "receiving_time": "10:15:00"
+  },
+  {
+    "id": 25780,
+    "item_name": "WATER BOTTLE WITH",
+    "description": "UMBRELLA, EARBUD CASE WITH BOTH EARBUDS",
+    "quantity": "1",
+    "station": "VISHWAVIDYALAYA",
+    "receiving_date": "2026-08-10",
+    "receiving_time": "20:15:00"
+  },
+  {
+    "id": 25782,
+    "item_name": "WRIST WATCH WITH",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "JANAKPURI WEST",
+    "receiving_date": "2026-08-10",
+    "receiving_time": "20:20:00"
+  },
+  {
     "id": 25673,
     "item_name": "PENDANT",
     "description": "PENDANT",
@@ -288,6 +378,42 @@
     "receiving_time": "11:15:00"
   },
   {
+    "id": 25774,
+    "item_name": "LADIES HAND PURSE WITH",
+    "description": "CHAIN, ANKLET, BRACELATE, CASH, PASSPORT SIZE PHOTO",
+    "quantity": "1",
+    "station": "LAL QUILA",
+    "receiving_date": "2026-08-09",
+    "receiving_time": "13:30:00"
+  },
+  {
+    "id": 25778,
+    "item_name": "KEYPAD MOBILE PHONE",
+    "description": "KEYPAD MOBILE PHONE",
+    "quantity": "1",
+    "station": "MAUJPUR-BABARPUR",
+    "receiving_date": "2026-08-09",
+    "receiving_time": "00:15:00"
+  },
+  {
+    "id": 25779,
+    "item_name": "BAG WITH",
+    "description": "PURSE AND PASSPORT SIZE PHOTO",
+    "quantity": "1",
+    "station": "NANGLOI",
+    "receiving_date": "2026-08-09",
+    "receiving_time": "15:30:00"
+  },
+  {
+    "id": 25786,
+    "item_name": "BABY CLOTHES WITH",
+    "description": "NECKLESS, EARRINGS",
+    "quantity": "1",
+    "station": "CHANDNI CHOWK",
+    "receiving_date": "2026-08-09",
+    "receiving_time": "21:45:00"
+  },
+  {
     "id": 25720,
     "item_name": "SLING BAG WITH",
     "description": "NECK BAND",
@@ -367,6 +493,24 @@
     "station": "PALAM",
     "receiving_date": "2026-08-08",
     "receiving_time": "20:30:00"
+  },
+  {
+    "id": 25785,
+    "item_name": "CLOTH CARRY BAG WITH",
+    "description": "OLD PANT AND JACKET",
+    "quantity": "1",
+    "station": "VIDHAN SABHA",
+    "receiving_date": "2026-08-08",
+    "receiving_time": "19:50:00"
+  },
+  {
+    "id": 25787,
+    "item_name": "PURSE WITH",
+    "description": "CASH, A PAIR OF SHOES,EARBUD CASE WITH BOTH EARBUDS",
+    "quantity": "1",
+    "station": "CHANDNI CHOWK",
+    "receiving_date": "2026-08-08",
+    "receiving_time": "21:30:00"
   },
   {
     "id": 25641,
@@ -592,6 +736,15 @@
     "station": "SEVA TEERTH (earlier UDYOG BHAWAN))",
     "receiving_date": "2026-08-07",
     "receiving_time": "20:40:00"
+  },
+  {
+    "id": 25770,
+    "item_name": "UMBRELLA",
+    "description": "UMBRELLA",
+    "quantity": "1",
+    "station": "SULTANPUR",
+    "receiving_date": "2026-08-07",
+    "receiving_time": "11:20:00"
   },
   {
     "id": 25679,
@@ -3280,7 +3433,7 @@
     "item_name": "WALLET WITH",
     "description": "CASH",
     "quantity": "1",
-    "station": "KANHAIYA NAGAR ",
+    "station": "KANHAIYA NAGAR",
     "receiving_date": "2026-07-15",
     "receiving_time": "00:05:00"
   },
@@ -75325,7 +75478,7 @@
     "item_name": "BOTTLE  & EARBUD",
     "description": "BOTTLE & EARBUD CASE WITH SINGLE EARBUD",
     "quantity": "2",
-    "station": "KANHAIYA NAGAR ",
+    "station": "KANHAIYA NAGAR",
     "receiving_date": "2024-11-20",
     "receiving_time": "12:00:00"
   },
@@ -81688,7 +81841,7 @@
     "item_name": "TROLLEY BAG WITH",
     "description": "CLOTHS",
     "quantity": "1",
-    "station": "KANHAIYA NAGAR ",
+    "station": "KANHAIYA NAGAR",
     "receiving_date": "2024-09-22",
     "receiving_time": "07:20:00"
   },
@@ -89536,7 +89689,7 @@
     "item_name": "CURTAIN,CUSHION COVER",
     "description": "CURTAIN,CUSHION COVER",
     "quantity": "1",
-    "station": "KANHAIYA NAGAR ",
+    "station": "KANHAIYA NAGAR",
     "receiving_date": "2024-07-18",
     "receiving_time": "20:35:00"
   },
@@ -112234,7 +112387,7 @@
     "item_name": "BAG",
     "description": "BLACK BAG WITH MUFFLER",
     "quantity": "1",
-    "station": "KANHAIYA NAGAR ",
+    "station": "KANHAIYA NAGAR",
     "receiving_date": "2024-01-08",
     "receiving_time": "01:45:00"
   },
@@ -148270,7 +148423,7 @@
     "item_name": "BASIC MOBILE",
     "description": "",
     "quantity": null,
-    "station": "KANHAIYA NAGAR ",
+    "station": "KANHAIYA NAGAR",
     "receiving_date": "2023-04-02",
     "receiving_time": "09:00:00"
   },
@@ -160834,7 +160987,7 @@
     "item_name": "PURSE",
     "description": "AADHAR PAN BANK CARD OF ANKITA",
     "quantity": null,
-    "station": "KANHAIYA NAGAR ",
+    "station": "KANHAIYA NAGAR",
     "receiving_date": "2023-01-15",
     "receiving_time": "17:10:00"
   },
@@ -199375,158 +199528,5 @@
     "station": "SIKANDERPUR",
     "receiving_date": "2022-07-02",
     "receiving_time": "20:00:00"
-  },
-  {
-    "id": 3137,
-    "item_name": "SPECTACLES WITH  COVER",
-    "description": "",
-    "quantity": null,
-    "station": "KAROL BAGH",
-    "receiving_date": "2022-07-02",
-    "receiving_time": "23:30:00"
-  },
-  {
-    "id": 3138,
-    "item_name": "GOGGLES ,WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "KAROL BAGH",
-    "receiving_date": "2022-07-02",
-    "receiving_time": "19:30:00"
-  },
-  {
-    "id": 3139,
-    "item_name": "UNDER WEAR",
-    "description": "",
-    "quantity": null,
-    "station": "KAROL BAGH",
-    "receiving_date": "2022-07-02",
-    "receiving_time": "22:30:00"
-  },
-  {
-    "id": 3140,
-    "item_name": "SHORTS",
-    "description": "",
-    "quantity": null,
-    "station": "KAROL BAGH",
-    "receiving_date": "2022-07-02",
-    "receiving_time": "22:30:00"
-  },
-  {
-    "id": 3141,
-    "item_name": "SHORTS ,UMBRELLA",
-    "description": "",
-    "quantity": null,
-    "station": "KAROL BAGH",
-    "receiving_date": "2022-07-02",
-    "receiving_time": "22:30:00"
-  },
-  {
-    "id": 3142,
-    "item_name": "WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "JAHANGIRPURI",
-    "receiving_date": "2022-07-02",
-    "receiving_time": "19:40:00"
-  },
-  {
-    "id": 3147,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "MADHUBAN CHOWK (earlier PITAMPURA)",
-    "receiving_date": "2022-07-02",
-    "receiving_time": "12:40:00"
-  },
-  {
-    "id": 3157,
-    "item_name": "POLY BAG",
-    "description": "CHUNNI LOER TOP UNDER WEAR",
-    "quantity": null,
-    "station": "KAROL BAGH",
-    "receiving_date": "2022-07-02",
-    "receiving_time": "22:30:00"
-  },
-  {
-    "id": 3080,
-    "item_name": "BOTTLE",
-    "description": "",
-    "quantity": null,
-    "station": "JANPATH",
-    "receiving_date": "2022-07-01",
-    "receiving_time": "20:20:00"
-  },
-  {
-    "id": 3089,
-    "item_name": "HAND BAG",
-    "description": "",
-    "quantity": null,
-    "station": "GREEN PARK",
-    "receiving_date": "2022-07-01",
-    "receiving_time": "21:00:00"
-  },
-  {
-    "id": 3090,
-    "item_name": "BAG",
-    "description": "FOOT WEARS",
-    "quantity": null,
-    "station": "SHAHEED STHAL ( NEW BUS ADDA)",
-    "receiving_date": "2022-07-01",
-    "receiving_time": "00:10:00"
-  },
-  {
-    "id": 3091,
-    "item_name": "UMBRELLA",
-    "description": "",
-    "quantity": null,
-    "station": "VISHWAVIDYALAYA",
-    "receiving_date": "2022-07-01",
-    "receiving_time": "21:20:00"
-  },
-  {
-    "id": 3093,
-    "item_name": "HACHSAW BLADE,HELMET",
-    "description": "",
-    "quantity": null,
-    "station": "DELHI GATE",
-    "receiving_date": "2022-07-01",
-    "receiving_time": "06:00:00"
-  },
-  {
-    "id": 3094,
-    "item_name": "BAG",
-    "description": "NOTE BOOK EARPHONE",
-    "quantity": null,
-    "station": "SARITA VIHAR",
-    "receiving_date": "2022-07-01",
-    "receiving_time": "11:00:00"
-  },
-  {
-    "id": 3097,
-    "item_name": "UMBRELLA",
-    "description": "",
-    "quantity": null,
-    "station": "MOTI NAGAR",
-    "receiving_date": "2022-07-01",
-    "receiving_time": "09:00:00"
-  },
-  {
-    "id": 3099,
-    "item_name": "SHOES UMBRELLA TOY",
-    "description": "",
-    "quantity": null,
-    "station": "LAJPAT NAGAR",
-    "receiving_date": "2022-07-01",
-    "receiving_time": "21:20:00"
-  },
-  {
-    "id": 3100,
-    "item_name": "BAG",
-    "description": "CHARGER CAP BOTTLE",
-    "quantity": null,
-    "station": "SAMAYPUR BADLI",
-    "receiving_date": "2022-07-01",
-    "receiving_time": "18:30:00"
   }
 ]
