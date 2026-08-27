@@ -1,5 +1,14 @@
 [
   {
+    "id": 25928,
+    "item_name": "LADIES HANDBAG WITH",
+    "description": "BANGLES, TWO CHAIN",
+    "quantity": "1",
+    "station": "BOTANICAL GARDEN",
+    "receiving_date": "2026-08-24",
+    "receiving_time": "21:43:00"
+  },
+  {
     "id": 25871,
     "item_name": "METAL RINGS",
     "description": "METAL RINGS",
@@ -16,6 +25,105 @@
     "station": "DR. BABA SAHEB AMBEDKAR HOSPITAL",
     "receiving_date": "2026-08-21",
     "receiving_time": "11:00:00"
+  },
+  {
+    "id": 25919,
+    "item_name": "WALLET WITH",
+    "description": "PAN CARD, AADHAAR CARD, BANK CARD OF ZAHRAN ALI SHAH",
+    "quantity": "1",
+    "station": "JAMA MASJID",
+    "receiving_date": "2026-08-20",
+    "receiving_time": "13:00:00"
+  },
+  {
+    "id": 25921,
+    "item_name": "WATER BOTTLE",
+    "description": "WATER BOTTLE",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 21",
+    "receiving_date": "2026-08-20",
+    "receiving_time": "20:25:00"
+  },
+  {
+    "id": 25925,
+    "item_name": "LUNCH BOX WITH",
+    "description": "CONTAINERS",
+    "quantity": "1",
+    "station": "BOTANICAL GARDEN",
+    "receiving_date": "2026-08-20",
+    "receiving_time": "20:00:00"
+  },
+  {
+    "id": 25926,
+    "item_name": "BACKPACK BAG WITH",
+    "description": "OLD CLOTHES, SPEAKER, AADHAAR CARD OF SOURAV MITTAL, HEENA RANI, SHRAVYA",
+    "quantity": "1",
+    "station": "BOTANICAL GARDEN",
+    "receiving_date": "2026-08-20",
+    "receiving_time": "13:00:00"
+  },
+  {
+    "id": 25927,
+    "item_name": "EARBUD CASE",
+    "description": "EARBUD CASE ONLY",
+    "quantity": "1",
+    "station": "BOTANICAL GARDEN",
+    "receiving_date": "2026-08-20",
+    "receiving_time": "20:35:00"
+  },
+  {
+    "id": 25917,
+    "item_name": "MOBILE PHONE WITH",
+    "description": "MOBILE PHONE",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-08-19",
+    "receiving_time": "09:00:00"
+  },
+  {
+    "id": 25920,
+    "item_name": "JUTE BAG WITH",
+    "description": "PAIR OF SHOE",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 21",
+    "receiving_date": "2026-08-19",
+    "receiving_time": "07:40:00"
+  },
+  {
+    "id": 25922,
+    "item_name": "BOX WITH",
+    "description": "ELECTRIC FITTING ITEMS, WIRE",
+    "quantity": "1",
+    "station": "DWARKA SECTOR - 21",
+    "receiving_date": "2026-08-19",
+    "receiving_time": "06:00:00"
+  },
+  {
+    "id": 25929,
+    "item_name": "WRIST WATCH",
+    "description": "WRIST WATCH",
+    "quantity": "1",
+    "station": "JAMIA MILLIA ISLAMIA",
+    "receiving_date": "2026-08-19",
+    "receiving_time": "20:30:00"
+  },
+  {
+    "id": 25930,
+    "item_name": "TIFFIN BOX",
+    "description": "TIFFIN BOX",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-08-19",
+    "receiving_time": "21:03:00"
+  },
+  {
+    "id": 25931,
+    "item_name": "BACKPACK BAG WITH",
+    "description": "OLD CLOTHES, CHARGER",
+    "quantity": "1",
+    "station": "NEW DELHI (Yellow & Airport Line)",
+    "receiving_date": "2026-08-19",
+    "receiving_time": "18:05:00"
   },
   {
     "id": 25838,
@@ -79,6 +187,33 @@
     "station": "CHANDNI CHOWK",
     "receiving_date": "2026-08-18",
     "receiving_time": "21:30:00"
+  },
+  {
+    "id": 25918,
+    "item_name": "POLYBAG WITH",
+    "description": "BAG",
+    "quantity": "1",
+    "station": "LAL QUILA",
+    "receiving_date": "2026-08-18",
+    "receiving_time": "22:30:00"
+  },
+  {
+    "id": 25923,
+    "item_name": "WRIST WATCH",
+    "description": "WRIST WATCH",
+    "quantity": "1",
+    "station": "RAMESH NAGAR",
+    "receiving_date": "2026-08-18",
+    "receiving_time": "09:00:00"
+  },
+  {
+    "id": 25924,
+    "item_name": "EARBUD CASE WITH",
+    "description": "EARBUDS, UMBRELLA",
+    "quantity": "1",
+    "station": "RAMESH NAGAR",
+    "receiving_date": "2026-08-18",
+    "receiving_time": "19:10:00"
   },
   {
     "id": 25866,
@@ -432,6 +567,15 @@
     "receiving_time": "21:30:00"
   },
   {
+    "id": 25916,
+    "item_name": "PAPER BAG WITH",
+    "description": "OLD CLOTHES",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-08-16",
+    "receiving_time": "13:30:00"
+  },
+  {
     "id": 25777,
     "item_name": "ONE ANKLET",
     "description": "ONE ANKLET",
@@ -529,6 +673,15 @@
     "station": "SECTOR - 52 NOIDA",
     "receiving_date": "2026-08-15",
     "receiving_time": "18:20:00"
+  },
+  {
+    "id": 25915,
+    "item_name": "LADIES HANDBAG WITH",
+    "description": "USED MEDICINES, COSMETICS",
+    "quantity": "1",
+    "station": "KASHMERE GATE",
+    "receiving_date": "2026-08-15",
+    "receiving_time": "13:30:00"
   },
   {
     "id": 25836,
@@ -1129,7 +1282,7 @@
     "item_name": "CARRY BAG WITH",
     "description": "OLD CLOTHES,TOY,SMALL HAND BAG, CREAM",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-08-11",
     "receiving_time": "09:30:00"
   },
@@ -1759,7 +1912,7 @@
     "item_name": "WATER BOTTLE",
     "description": "WATER BOTTLE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-08-07",
     "receiving_time": "21:00:00"
   },
@@ -1768,7 +1921,7 @@
     "item_name": "UMBRELLA",
     "description": "UMBRELLA",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-08-07",
     "receiving_time": "21:00:00"
   },
@@ -2326,7 +2479,7 @@
     "item_name": "JUTE BAG WITH",
     "description": "UMBRELLA",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-08-03",
     "receiving_time": "09:30:00"
   },
@@ -3037,7 +3190,7 @@
     "item_name": "BACKPACK BAG WITH",
     "description": "BOOKS, DOCUMENTS, AADHAAR CARD OF SUMIT KUMAR",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-07-28",
     "receiving_time": "17:04:00"
   },
@@ -5296,7 +5449,7 @@
     "item_name": "BOOK",
     "description": "BOOK",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-07-10",
     "receiving_time": "20:45:00"
   },
@@ -6124,7 +6277,7 @@
     "item_name": "HAND BAG",
     "description": "HAND BAG",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-07-04",
     "receiving_time": "22:15:00"
   },
@@ -6754,7 +6907,7 @@
     "item_name": "WALLET WITH",
     "description": "ADHAR CARD , PAN CARD NAME OF AZHAN SALEEM, METRO CARD, DEBIT CARD, CASH",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-06-29",
     "receiving_time": "13:10:00"
   },
@@ -8716,7 +8869,7 @@
     "item_name": "WAIST BELT",
     "description": "WAIST BELT",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-06-12",
     "receiving_time": "21:15:00"
   },
@@ -8977,7 +9130,7 @@
     "item_name": "WATER BOTTLE",
     "description": "WATER BOTTLE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-06-09",
     "receiving_time": "09:00:00"
   },
@@ -13162,7 +13315,7 @@
     "item_name": "LUNCH BAG WITH",
     "description": "BOXES, WATER BOTTLE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-05-06",
     "receiving_time": "18:00:00"
   },
@@ -16798,7 +16951,7 @@
     "item_name": "WI-FI",
     "description": "WI-FI",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-04-06",
     "receiving_time": "11:50:00"
   },
@@ -17482,7 +17635,7 @@
     "item_name": "PURSE WITH",
     "description": "CASH, NCMC",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-03-31",
     "receiving_time": "20:50:00"
   },
@@ -18436,7 +18589,7 @@
     "item_name": "POLYBAG WITH",
     "description": "LADIES TOP",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-03-21",
     "receiving_time": "20:46:00"
   },
@@ -20911,7 +21064,7 @@
     "item_name": "COVER OF EARBUDS",
     "description": "COVER OF EARBUDS",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-02-26",
     "receiving_time": "17:00:00"
   },
@@ -22315,7 +22468,7 @@
     "item_name": "HELMET",
     "description": "HELMET",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-02-14",
     "receiving_time": "20:40:00"
   },
@@ -24439,7 +24592,7 @@
     "item_name": "CASH",
     "description": "CASH",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-01-29",
     "receiving_time": "23:45:00"
   },
@@ -25159,7 +25312,7 @@
     "item_name": "CARRY BAG WITH",
     "description": "NURSE UNIFORM OF RML HOSPITAL, SWEATER",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-01-25",
     "receiving_time": "14:00:00"
   },
@@ -25996,7 +26149,7 @@
     "item_name": "SINGLE EARBUD",
     "description": "SINGLE EARBUD",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-01-20",
     "receiving_time": "17:00:00"
   },
@@ -27040,7 +27193,7 @@
     "item_name": "POLYBAG WITH",
     "description": "POUCH, SKIRT, CASH",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-01-13",
     "receiving_time": "20:25:00"
   },
@@ -27328,7 +27481,7 @@
     "item_name": "WALLET WITH",
     "description": "RC, BANK CARD, VOTER NAMED PRIYANSHU GUPTA AND CASH",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-01-11",
     "receiving_time": "11:30:00"
   },
@@ -28183,7 +28336,7 @@
     "item_name": "MOBILE PHONE",
     "description": "MOBILE PHONE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2026-01-05",
     "receiving_time": "08:50:00"
   },
@@ -29047,7 +29200,7 @@
     "item_name": "POWER BANK",
     "description": "POWER BANK",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-12-29",
     "receiving_time": "15:30:00"
   },
@@ -31882,7 +32035,7 @@
     "item_name": "CARRY BAG WITH",
     "description": "SHAWL",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-12-11",
     "receiving_time": "19:00:00"
   },
@@ -32431,7 +32584,7 @@
     "item_name": "CARRY BAG WITH",
     "description": "LADIES SUITS",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-12-07",
     "receiving_time": "19:25:00"
   },
@@ -34141,7 +34294,7 @@
     "item_name": "JACKET",
     "description": "JACKET",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-11-27",
     "receiving_time": "12:35:00"
   },
@@ -34159,7 +34312,7 @@
     "item_name": "CHAIN",
     "description": "CHAIN",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-11-27",
     "receiving_time": "17:20:00"
   },
@@ -35410,7 +35563,7 @@
     "item_name": "JACKET",
     "description": "JACKET",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-11-19",
     "receiving_time": "13:00:00"
   },
@@ -35779,7 +35932,7 @@
     "item_name": "BAG WITH",
     "description": "TOY, STALL, SUIT, GLASS",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-11-16",
     "receiving_time": "13:30:00"
   },
@@ -41989,7 +42142,7 @@
     "item_name": "LADIES TOP",
     "description": "LADIES TOP",
     "quantity": "01",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-09-25",
     "receiving_time": "20:00:00"
   },
@@ -41998,7 +42151,7 @@
     "item_name": "BAG WITH",
     "description": "CLOTHES",
     "quantity": "01",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-09-25",
     "receiving_time": "13:00:00"
   },
@@ -42097,7 +42250,7 @@
     "item_name": "LADIES CLOTHES WITH",
     "description": "WOOLEN CLOTH",
     "quantity": "01",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-09-24",
     "receiving_time": "13:05:00"
   },
@@ -43078,7 +43231,7 @@
     "item_name": "BAG WITH",
     "description": "MOBILE CHARGER",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-09-16",
     "receiving_time": "13:00:00"
   },
@@ -43087,7 +43240,7 @@
     "item_name": "SMALL BAG WITH",
     "description": "GOGGLES",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-09-16",
     "receiving_time": "13:50:00"
   },
@@ -47353,7 +47506,7 @@
     "item_name": "BAG WITH",
     "description": "UMBRELLA, BOTTLE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-08-14",
     "receiving_time": "22:00:00"
   },
@@ -47362,7 +47515,7 @@
     "item_name": "CUSHION",
     "description": "CUSHION",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-08-14",
     "receiving_time": "21:40:00"
   },
@@ -47371,7 +47524,7 @@
     "item_name": "UMBRELLA",
     "description": "UMBRELLA",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-08-14",
     "receiving_time": "21:30:00"
   },
@@ -50818,7 +50971,7 @@
     "item_name": "LUNCH BOX",
     "description": "BLUE COLOUR",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-07-16",
     "receiving_time": "17:30:00"
   },
@@ -51376,7 +51529,7 @@
     "item_name": "BOTTLE",
     "description": "BOTTLE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-07-09",
     "receiving_time": "18:00:00"
   },
@@ -52411,7 +52564,7 @@
     "item_name": "TIFFIN BAG WITH TWO BOXES",
     "description": "BLUE COLOUR",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-06-27",
     "receiving_time": "10:50:00"
   },
@@ -53653,7 +53806,7 @@
     "item_name": "LUNCH BOX",
     "description": "LUNCH BOX",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-06-13",
     "receiving_time": "20:30:00"
   },
@@ -54283,7 +54436,7 @@
     "item_name": "CALCULATOR",
     "description": "CALCULATOR",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-06-06",
     "receiving_time": "20:30:00"
   },
@@ -56101,7 +56254,7 @@
     "item_name": "POLYBAG WITH",
     "description": "BAG, SLIPPER",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-05-20",
     "receiving_time": "20:45:00"
   },
@@ -58261,7 +58414,7 @@
     "item_name": "NEPALI CURRENCY",
     "description": "CURRENCY",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-04-28",
     "receiving_time": "14:40:00"
   },
@@ -58270,7 +58423,7 @@
     "item_name": "TWO PASSPORTS",
     "description": "G. MADHUBALA,     VENKTESH YADAV",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-04-28",
     "receiving_time": "20:30:00"
   },
@@ -58486,7 +58639,7 @@
     "item_name": "THERMACOL AEROPLANE",
     "description": "TOY",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-04-26",
     "receiving_time": "20:20:00"
   },
@@ -60286,7 +60439,7 @@
     "item_name": "PASSPORT  OF",
     "description": "NEPAL",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-04-09",
     "receiving_time": "20:25:00"
   },
@@ -60457,7 +60610,7 @@
     "item_name": "PURSE WITH",
     "description": "AADHAR, PAN, VOTER AND BANK CARDS OF BHARTI VIJAY",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-04-07",
     "receiving_time": "14:50:00"
   },
@@ -60664,7 +60817,7 @@
     "item_name": "JUTE BAG WITH",
     "description": "DECORATIVE ITEM",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-04-05",
     "receiving_time": "15:00:00"
   },
@@ -62167,7 +62320,7 @@
     "item_name": "SLEEPING BAG",
     "description": "SLEEPING BAG",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-03-22",
     "receiving_time": "17:30:00"
   },
@@ -62608,7 +62761,7 @@
     "item_name": "SPECTACLES COVER",
     "description": "COVER OF SPECTACLE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-03-18",
     "receiving_time": "18:00:00"
   },
@@ -65434,7 +65587,7 @@
     "item_name": "PROJECT WORK RELATED TO",
     "description": "MEDICAL",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-02-15",
     "receiving_time": "21:00:00"
   },
@@ -65830,7 +65983,7 @@
     "item_name": "BAG WITH",
     "description": "CLOTHES, EAR BUDS, CHARGER, MUG, MOBILE, FOREIGN CURRENCY",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-02-12",
     "receiving_time": "22:40:00"
   },
@@ -67540,7 +67693,7 @@
     "item_name": "LUNCH BOX",
     "description": "3 BOXS AND 1 SPOON",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-01-28",
     "receiving_time": "00:01:00"
   },
@@ -69457,7 +69610,7 @@
     "item_name": "LADIES PURSE WITH",
     "description": "CASH",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-01-13",
     "receiving_time": "13:15:00"
   },
@@ -69844,7 +69997,7 @@
     "item_name": "SLING BAG",
     "description": "MOBILE CHARGER & CASH",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-01-10",
     "receiving_time": "10:00:00"
   },
@@ -70753,7 +70906,7 @@
     "item_name": "POLYBAG",
     "description": "PHOTO FRAME & CLOTHES",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2025-01-02",
     "receiving_time": "19:30:00"
   },
@@ -71509,7 +71662,7 @@
     "item_name": "JACKET",
     "description": "JACKET",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-12-27",
     "receiving_time": "00:02:00"
   },
@@ -72625,7 +72778,7 @@
     "item_name": "WALLET WITH",
     "description": "BANK CARDS, ID CARD OF SHAH MAHBOOD CHOWDHURY, FOREIGN CURRENCY",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-12-18",
     "receiving_time": "16:00:00"
   },
@@ -73201,7 +73354,7 @@
     "item_name": "LUNCH BOX",
     "description": "BROWN LUNCH BOX",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-12-13",
     "receiving_time": "21:00:00"
   },
@@ -73660,7 +73813,7 @@
     "item_name": "PASSPORT",
     "description": "PASSPORT OF MR. AVINASH KUMAR",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-12-09",
     "receiving_time": "11:10:00"
   },
@@ -74497,7 +74650,7 @@
     "item_name": "PURSE",
     "description": "PURSE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-12-03",
     "receiving_time": "20:08:00"
   },
@@ -75253,7 +75406,7 @@
     "item_name": "EARBUD",
     "description": "SINGLE PIECE EARBUD",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-11-27",
     "receiving_time": "13:00:00"
   },
@@ -75766,7 +75919,7 @@
     "item_name": "SHOES",
     "description": "SHOES",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-11-24",
     "receiving_time": "20:50:00"
   },
@@ -78448,7 +78601,7 @@
     "item_name": "BAG",
     "description": "T -SHIRT ,SWEATOR ,BOOK, TOY CAR",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-11-03",
     "receiving_time": "19:00:00"
   },
@@ -80959,7 +81112,7 @@
     "item_name": "PASSPORT",
     "description": "PASSPORT OF MR. ANKIT SHARMA",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-10-13",
     "receiving_time": "10:00:00"
   },
@@ -81427,7 +81580,7 @@
     "item_name": "LUNCH BOX",
     "description": "LUNCH BOX",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-10-09",
     "receiving_time": "21:30:00"
   },
@@ -81436,7 +81589,7 @@
     "item_name": "BAG",
     "description": "LUNCH BOX INSIDE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-10-09",
     "receiving_time": "12:00:00"
   },
@@ -82561,7 +82714,7 @@
     "item_name": "DRAWING BOX",
     "description": "DRAWING BOX",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-09-27",
     "receiving_time": "16:20:00"
   },
@@ -85171,7 +85324,7 @@
     "item_name": "BLUE LUNCH BAG WITH",
     "description": "STEEL & PLASTIC BOXES",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-09-03",
     "receiving_time": "09:50:00"
   },
@@ -85378,7 +85531,7 @@
     "item_name": "SPECTACLES",
     "description": "",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-09-02",
     "receiving_time": "00:10:00"
   },
@@ -86692,7 +86845,7 @@
     "item_name": "SUN GLASSES",
     "description": "BLACK COLOR SUN GLASSES",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-08-23",
     "receiving_time": "15:10:00"
   },
@@ -88141,7 +88294,7 @@
     "item_name": "UMBRELLA",
     "description": "BLUE UMBRELLA",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-08-12",
     "receiving_time": "13:20:00"
   },
@@ -88969,7 +89122,7 @@
     "item_name": "CHAIN",
     "description": "CHAIN",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-08-04",
     "receiving_time": "23:00:00"
   },
@@ -91471,7 +91624,7 @@
     "item_name": "POWER BANK",
     "description": "BLUE POWER BANK",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-07-12",
     "receiving_time": "10:10:00"
   },
@@ -93388,7 +93541,7 @@
     "item_name": "UMBRELLA",
     "description": "UMBRELLA",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-06-28",
     "receiving_time": "20:45:00"
   },
@@ -93397,7 +93550,7 @@
     "item_name": "UMBRELLA",
     "description": "UMBRELLA",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-06-28",
     "receiving_time": "20:45:00"
   },
@@ -93532,7 +93685,7 @@
     "item_name": "HELMET",
     "description": "HELMET",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-06-26",
     "receiving_time": "10:57:00"
   },
@@ -93568,7 +93721,7 @@
     "item_name": "EARBUDS",
     "description": "WHITE EARBUDS",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-06-26",
     "receiving_time": "11:45:00"
   },
@@ -93721,7 +93874,7 @@
     "item_name": "SPECTACLES",
     "description": "SPECTACLES",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-06-24",
     "receiving_time": "10:58:00"
   },
@@ -95602,7 +95755,7 @@
     "item_name": "HAND BAG",
     "description": "EMPTY HAND BAG",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-06-06",
     "receiving_time": "12:20:00"
   },
@@ -97474,7 +97627,7 @@
     "item_name": "PASSPORT",
     "description": "PASSPORT OF MR. JAGPREET SINGH",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-05-18",
     "receiving_time": "12:40:00"
   },
@@ -100165,7 +100318,7 @@
     "item_name": "PASSPORT",
     "description": "PASSPORT OF RAHUL PODDAR AND PHOTOCOPY OF VISA DOCUMENTS",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-04-27",
     "receiving_time": "15:20:00"
   },
@@ -100174,7 +100327,7 @@
     "item_name": "HELMET",
     "description": "USED(MAVOX)",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-04-27",
     "receiving_time": "15:25:00"
   },
@@ -100183,7 +100336,7 @@
     "item_name": "WATER BOTTLE",
     "description": "CELLO",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-04-27",
     "receiving_time": "15:30:00"
   },
@@ -100426,7 +100579,7 @@
     "item_name": "EARBUD CASE",
     "description": "EMPTY EARBUD CASE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-04-24",
     "receiving_time": "20:35:00"
   },
@@ -101254,7 +101407,7 @@
     "item_name": "MOBILE",
     "description": "BLACK MOBILE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-04-16",
     "receiving_time": "20:30:00"
   },
@@ -102055,7 +102208,7 @@
     "item_name": "WATER BOTTLE",
     "description": "WATER BOTTLE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-04-08",
     "receiving_time": "11:50:00"
   },
@@ -102451,7 +102604,7 @@
     "item_name": "SLING BAG",
     "description": "WITH CHARGER ,EARBUD,BANK CARDS ,OF AJMER SINGH",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-04-05",
     "receiving_time": "13:00:00"
   },
@@ -102838,7 +102991,7 @@
     "item_name": "BAG",
     "description": "WITH CLOTHS ,EARPHONE,SUNGLASS,PAN CARD ,BANK CARD OF MURUGANANDHAN",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-04-01",
     "receiving_time": "12:25:00"
   },
@@ -102847,7 +103000,7 @@
     "item_name": "MOBILE & PURSE",
     "description": "SAMSUNG MOBILE,PURSE WITH CASH BANK CARDS OF RASHMI PRIYA & ROHIT SINGHAL",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-04-01",
     "receiving_time": "16:20:00"
   },
@@ -105241,7 +105394,7 @@
     "item_name": "CARRYBAG WITH",
     "description": "TOWEL & BEDSHEET",
     "quantity": "2",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-03-11",
     "receiving_time": "20:00:00"
   },
@@ -105952,7 +106105,7 @@
     "item_name": "KEYS",
     "description": "BUNCH OF KEYS",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-03-04",
     "receiving_time": "19:50:00"
   },
@@ -105961,7 +106114,7 @@
     "item_name": "HAND BAG",
     "description": "WITH WHITE HOSPITAL CLOTHS",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-03-04",
     "receiving_time": "20:00:00"
   },
@@ -107815,7 +107968,7 @@
     "item_name": "BLACK BAG WITH",
     "description": "BOTTLE & CRPF ID OF BABLU KUMAR",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-02-18",
     "receiving_time": "12:30:00"
   },
@@ -109561,7 +109714,7 @@
     "item_name": "POWER BANK",
     "description": "WHITE POWER BANK",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-02-05",
     "receiving_time": "20:50:00"
   },
@@ -109570,7 +109723,7 @@
     "item_name": "CARRY BAG",
     "description": "WITH WHITE JACKET,BLACK CAP",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-02-05",
     "receiving_time": "21:42:00"
   },
@@ -110938,7 +111091,7 @@
     "item_name": "WATER BOTTLE",
     "description": "BLACK WATER BOTTLE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-01-25",
     "receiving_time": "20:55:00"
   },
@@ -111181,7 +111334,7 @@
     "item_name": "HELMET",
     "description": "BLACK HELMET",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-01-23",
     "receiving_time": "21:29:00"
   },
@@ -112873,7 +113026,7 @@
     "item_name": "BOTTLE",
     "description": "STEEL BOTTLE",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-01-12",
     "receiving_time": "21:00:00"
   },
@@ -113314,7 +113467,7 @@
     "item_name": "CARRY BAG",
     "description": "WITH COMB,PERFUME,GENTS WATCH",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-01-09",
     "receiving_time": "16:40:00"
   },
@@ -114322,7 +114475,7 @@
     "item_name": "WIFI & EARBUDS",
     "description": "JIO WIFI DEVICE & WINGS EARBUDS",
     "quantity": "2",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2024-01-02",
     "receiving_time": "21:15:00"
   },
@@ -116230,7 +116383,7 @@
     "item_name": "BAG WITH CLOTHES",
     "description": "",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-12-18",
     "receiving_time": "17:30:00"
   },
@@ -116896,7 +117049,7 @@
     "item_name": "PEN DRIVE & SD CARD",
     "description": "HP PEN DRIVE ,SD CARDS",
     "quantity": "2",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-12-12",
     "receiving_time": "21:20:00"
   },
@@ -117670,7 +117823,7 @@
     "item_name": "PASSBOOK",
     "description": "OF KRISHNA CHAITANYA",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-12-06",
     "receiving_time": "21:55:00"
   },
@@ -119686,7 +119839,7 @@
     "item_name": "LADY BAG WITH WATER BOTTLE & CLOTHES",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-11-20",
     "receiving_time": "10:30:00"
   },
@@ -121774,7 +121927,7 @@
     "item_name": "EARBUD",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-11-03",
     "receiving_time": "20:30:00"
   },
@@ -121819,7 +121972,7 @@
     "item_name": "BAG",
     "description": "CLOTHS",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-11-02",
     "receiving_time": "13:00:00"
   },
@@ -125815,7 +125968,7 @@
     "item_name": "PASSBOOK OF RAJAN THING",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-09-26",
     "receiving_time": "17:20:00"
   },
@@ -125824,7 +125977,7 @@
     "item_name": "UMBRELLA",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-09-26",
     "receiving_time": "17:10:00"
   },
@@ -127642,7 +127795,7 @@
     "item_name": "WATCH",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-09-12",
     "receiving_time": "13:10:00"
   },
@@ -127651,7 +127804,7 @@
     "item_name": "PASSPORT OF MD SAIFUL",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-09-12",
     "receiving_time": "13:10:00"
   },
@@ -129595,7 +129748,7 @@
     "item_name": "SPECTACLE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-08-28",
     "receiving_time": "14:00:00"
   },
@@ -130054,7 +130207,7 @@
     "item_name": "BOTTLE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-08-25",
     "receiving_time": "20:30:00"
   },
@@ -130063,7 +130216,7 @@
     "item_name": "CIGARETTE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-08-25",
     "receiving_time": "20:30:00"
   },
@@ -130270,7 +130423,7 @@
     "item_name": "UMBRELLA ,DATA CABLE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-08-23",
     "receiving_time": "18:10:00"
   },
@@ -131503,7 +131656,7 @@
     "item_name": "WATER BOTTLE & EARBUDS",
     "description": "",
     "quantity": "2",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-08-14",
     "receiving_time": "13:15:00"
   },
@@ -131764,7 +131917,7 @@
     "item_name": "BAG",
     "description": "NOTE BOOK EDUCATION CERTIFICATEAADHAR PAN OF VISHAL",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-08-12",
     "receiving_time": "19:20:00"
   },
@@ -133789,7 +133942,7 @@
     "item_name": "UMBRELLA",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-07-28",
     "receiving_time": "19:40:00"
   },
@@ -134149,7 +134302,7 @@
     "item_name": "PURSE",
     "description": "BANK CARDS DL PAN CARD ID CARD CASH OF DEEPAK AVASTHI",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-07-24",
     "receiving_time": "23:20:00"
   },
@@ -134950,7 +135103,7 @@
     "item_name": "BAG",
     "description": "SLING BAG RAIN COAT CLOTHS",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-07-18",
     "receiving_time": "15:50:00"
   },
@@ -135220,7 +135373,7 @@
     "item_name": "PASSPORT OF SANTOSH SIGDEL",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-07-17",
     "receiving_time": "16:50:00"
   },
@@ -135346,7 +135499,7 @@
     "item_name": "PASSPORT OF MRAVLJAK",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-07-16",
     "receiving_time": "12:11:00"
   },
@@ -135670,7 +135823,7 @@
     "item_name": "UMBRELLA",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-07-14",
     "receiving_time": "12:40:00"
   },
@@ -135823,7 +135976,7 @@
     "item_name": "LUNCH BOX",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-07-13",
     "receiving_time": "09:00:00"
   },
@@ -136408,7 +136561,7 @@
     "item_name": "CASH",
     "description": "",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-07-09",
     "receiving_time": "10:00:00"
   },
@@ -137623,7 +137776,7 @@
     "item_name": "POWER BANK",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-06-30",
     "receiving_time": "11:30:00"
   },
@@ -137677,7 +137830,7 @@
     "item_name": "HELMET",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-06-30",
     "receiving_time": "11:35:00"
   },
@@ -137857,7 +138010,7 @@
     "item_name": "BOTTLE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-06-28",
     "receiving_time": "11:00:00"
   },
@@ -141232,7 +141385,7 @@
     "item_name": "HAND BAG",
     "description": "BLANKET",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-06-03",
     "receiving_time": "20:40:00"
   },
@@ -144823,7 +144976,7 @@
     "item_name": "METRO CARD",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-05-05",
     "receiving_time": "13:30:00"
   },
@@ -145147,7 +145300,7 @@
     "item_name": "UMBRELLA",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-05-03",
     "receiving_time": "22:00:00"
   },
@@ -145534,7 +145687,7 @@
     "item_name": "SHIRT UMBRELLA",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-05-01",
     "receiving_time": "21:00:00"
   },
@@ -146038,7 +146191,7 @@
     "item_name": "CASH",
     "description": "",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-04-26",
     "receiving_time": "21:10:00"
   },
@@ -147037,7 +147190,7 @@
     "item_name": "sun glass",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-04-19",
     "receiving_time": "20:30:00"
   },
@@ -147046,7 +147199,7 @@
     "item_name": "BOTTLE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-04-19",
     "receiving_time": "20:30:00"
   },
@@ -147352,7 +147505,7 @@
     "item_name": "WEIGHING MACHINE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-04-17",
     "receiving_time": "22:10:00"
   },
@@ -148126,7 +148279,7 @@
     "item_name": "STICK",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-04-11",
     "receiving_time": "13:19:00"
   },
@@ -148135,7 +148288,7 @@
     "item_name": "PURSE WITH & PHOTO OF MONIKA",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-04-11",
     "receiving_time": "13:19:00"
   },
@@ -148873,7 +149026,7 @@
     "item_name": "CHAIN",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-04-06",
     "receiving_time": "12:00:00"
   },
@@ -149431,7 +149584,7 @@
     "item_name": "EARBUDS",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-04-03",
     "receiving_time": "13:20:00"
   },
@@ -149593,7 +149746,7 @@
     "item_name": "JACKET",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-04-01",
     "receiving_time": "21:30:00"
   },
@@ -149728,7 +149881,7 @@
     "item_name": "BOTTLE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-03-31",
     "receiving_time": "13:30:00"
   },
@@ -149737,7 +149890,7 @@
     "item_name": "PAN OF SADHANA SHARMA",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-03-31",
     "receiving_time": "13:30:00"
   },
@@ -150016,7 +150169,7 @@
     "item_name": "WATER BOTTLE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-03-28",
     "receiving_time": "13:19:00"
   },
@@ -150826,7 +150979,7 @@
     "item_name": "CAR KEY",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-03-23",
     "receiving_time": "08:00:00"
   },
@@ -151357,7 +151510,7 @@
     "item_name": "T SHIRT",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-03-19",
     "receiving_time": "23:10:00"
   },
@@ -151834,7 +151987,7 @@
     "item_name": "WATCH",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-03-16",
     "receiving_time": "13:00:00"
   },
@@ -151843,7 +151996,7 @@
     "item_name": "NECKBAND",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-03-16",
     "receiving_time": "21:30:00"
   },
@@ -152059,7 +152212,7 @@
     "item_name": "BOTTLE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-03-15",
     "receiving_time": "20:50:00"
   },
@@ -153769,7 +153922,7 @@
     "item_name": "BOTTLE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-03-03",
     "receiving_time": "20:30:00"
   },
@@ -153886,7 +154039,7 @@
     "item_name": "MOBILE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-03-02",
     "receiving_time": "10:45:00"
   },
@@ -154462,7 +154615,7 @@
     "item_name": "MOBILE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-02-27",
     "receiving_time": "12:30:00"
   },
@@ -154471,7 +154624,7 @@
     "item_name": "SPECTACLES WITH  COVER",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-02-27",
     "receiving_time": "20:00:00"
   },
@@ -155542,7 +155695,7 @@
     "item_name": "SLIPPERS",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-02-19",
     "receiving_time": "19:00:00"
   },
@@ -156109,7 +156262,7 @@
     "item_name": "WAIST BAG WITH AADHAR,PAN,BANK CARD OF VISHAL,SUNITA,HARBHAJAN",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-02-16",
     "receiving_time": "21:10:00"
   },
@@ -157171,7 +157324,7 @@
     "item_name": "SHRUG ,SANDAL",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-02-10",
     "receiving_time": "15:15:00"
   },
@@ -157180,7 +157333,7 @@
     "item_name": "MOBILE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-02-10",
     "receiving_time": "12:30:00"
   },
@@ -158179,7 +158332,7 @@
     "item_name": "SUN GLASSES",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-02-06",
     "receiving_time": "20:30:00"
   },
@@ -158206,7 +158359,7 @@
     "item_name": "PENS",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-02-06",
     "receiving_time": "20:30:00"
   },
@@ -160123,7 +160276,7 @@
     "item_name": "JACKET",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-01-25",
     "receiving_time": "12:56:00"
   },
@@ -160357,7 +160510,7 @@
     "item_name": "EARBUDS",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-01-24",
     "receiving_time": "13:05:00"
   },
@@ -160366,7 +160519,7 @@
     "item_name": "CALENDER",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-01-24",
     "receiving_time": "21:20:00"
   },
@@ -160375,7 +160528,7 @@
     "item_name": "CLOTHES",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-01-24",
     "receiving_time": "21:20:00"
   },
@@ -161428,7 +161581,7 @@
     "item_name": "LUNCH BOX",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-01-19",
     "receiving_time": "21:52:00"
   },
@@ -161599,7 +161752,7 @@
     "item_name": "CALENDAR",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-01-18",
     "receiving_time": "12:40:00"
   },
@@ -163183,7 +163336,7 @@
     "item_name": "EARBUDS",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-01-09",
     "receiving_time": "12:45:00"
   },
@@ -163327,7 +163480,7 @@
     "item_name": "SLEEPING BAG",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2023-01-08",
     "receiving_time": "23:00:00"
   },
@@ -167512,7 +167665,7 @@
     "item_name": "BAG WITH SHOES & SLIPPERS",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-12-15",
     "receiving_time": "11:52:00"
   },
@@ -167836,7 +167989,7 @@
     "item_name": "SHAWL & CAP",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-12-14",
     "receiving_time": "20:00:00"
   },
@@ -167881,7 +168034,7 @@
     "item_name": "NECKBAND",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-12-14",
     "receiving_time": "12:50:00"
   },
@@ -168610,7 +168763,7 @@
     "item_name": "JACKET",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-12-10",
     "receiving_time": "16:10:00"
   },
@@ -169330,7 +169483,7 @@
     "item_name": "BAG",
     "description": "EARBUDS FOLDER WITH PHOTO COPIES",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-12-06",
     "receiving_time": "19:40:00"
   },
@@ -170392,7 +170545,7 @@
     "item_name": "BAG",
     "description": "CLOTHS",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-12-01",
     "receiving_time": "15:30:00"
   },
@@ -171616,7 +171769,7 @@
     "item_name": "BAG",
     "description": "DIARYS EARBUD CASE JACKET KEYS CASH",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-11-25",
     "receiving_time": "23:30:00"
   },
@@ -171976,7 +172129,7 @@
     "item_name": "JACKET",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-11-23",
     "receiving_time": "20:25:00"
   },
@@ -172228,7 +172381,7 @@
     "item_name": "PURSE",
     "description": "AADHAR PAN DL BANK CARD CASH OF VRIJESH SINGH",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-11-22",
     "receiving_time": "12:50:00"
   },
@@ -172723,7 +172876,7 @@
     "item_name": "BAG",
     "description": "BAG WITH WALLET , CLOTHES , CASH & DOCUMENTS OF GAURAV NAVIN KARIA",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-11-20",
     "receiving_time": "20:47:00"
   },
@@ -173875,7 +174028,7 @@
     "item_name": "PEN DRIVE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-11-14",
     "receiving_time": "20:32:00"
   },
@@ -174541,7 +174694,7 @@
     "item_name": "SPECTACLE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-11-10",
     "receiving_time": "14:40:00"
   },
@@ -174991,7 +175144,7 @@
     "item_name": "BAG",
     "description": "PURSE VOTER ID AADHAR RC DL CASH OF KHAIDEM NINGTHEM SINGH",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-11-08",
     "receiving_time": "19:00:00"
   },
@@ -176404,7 +176557,7 @@
     "item_name": "SUN GLASSES",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-10-31",
     "receiving_time": "20:00:00"
   },
@@ -177178,7 +177331,7 @@
     "item_name": "NECK BAND",
     "description": "",
     "quantity": "1",
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-10-28",
     "receiving_time": "12:50:00"
   },
@@ -177538,7 +177691,7 @@
     "item_name": "HAND BAG",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-10-24",
     "receiving_time": "17:35:00"
   },
@@ -180067,7 +180220,7 @@
     "item_name": "METRO CARD",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-10-11",
     "receiving_time": "14:30:00"
   },
@@ -180085,7 +180238,7 @@
     "item_name": "HAND BAG",
     "description": "LUNCH BOX JAR SPOON KALAVA SINDOOR KADA",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-10-11",
     "receiving_time": "18:00:00"
   },
@@ -180391,7 +180544,7 @@
     "item_name": "UMBRELLA",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-10-10",
     "receiving_time": "19:50:00"
   },
@@ -181381,7 +181534,7 @@
     "item_name": "NINTENDO SWITCH",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-10-05",
     "receiving_time": "08:10:00"
   },
@@ -181390,7 +181543,7 @@
     "item_name": "PURSE",
     "description": "VOTER ID AADHAR DL CSD CARD BANK CARDS OF ROOPESH PANWAR",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-10-05",
     "receiving_time": "11:55:00"
   },
@@ -182677,7 +182830,7 @@
     "item_name": "CLOTH PIECES & MASK",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-09-28",
     "receiving_time": "21:00:00"
   },
@@ -182749,7 +182902,7 @@
     "item_name": "EMPTY BAG",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-09-28",
     "receiving_time": "21:10:00"
   },
@@ -184513,7 +184666,7 @@
     "item_name": "HEAD PHONE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-09-19",
     "receiving_time": "13:00:00"
   },
@@ -184522,7 +184675,7 @@
     "item_name": "BAG",
     "description": "CHARGERS CLOTHS NAIL CUTTER",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-09-19",
     "receiving_time": "18:00:00"
   },
@@ -185341,7 +185494,7 @@
     "item_name": "CASH",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-09-15",
     "receiving_time": "12:30:00"
   },
@@ -186457,7 +186610,7 @@
     "item_name": "FILE WITH PHOTO COPIES OF SALIM HUSAIN",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-09-09",
     "receiving_time": "20:45:00"
   },
@@ -187042,7 +187195,7 @@
     "item_name": "BAG",
     "description": "CHARGER BELT MIRROR SPECTACLES SUNGLASS CLOTHS",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-09-05",
     "receiving_time": "14:00:00"
   },
@@ -189112,7 +189265,7 @@
     "item_name": "PASSPORT OF AADITYA SINGH ,JASPAL SINGH 7 AJAY NATH",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-08-25",
     "receiving_time": "15:50:00"
   },
@@ -189121,7 +189274,7 @@
     "item_name": "EARBUDS",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-08-25",
     "receiving_time": "20:50:00"
   },
@@ -190858,7 +191011,7 @@
     "item_name": "CASH",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-08-16",
     "receiving_time": "14:10:00"
   },
@@ -192604,7 +192757,7 @@
     "item_name": "CARRY BAG",
     "description": "CLOTHS BOTTLE",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-08-09",
     "receiving_time": "09:30:00"
   },
@@ -192613,7 +192766,7 @@
     "item_name": "CARRY BAG",
     "description": "WATCH SPECACLES BODY SPRAY",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-08-09",
     "receiving_time": "21:00:00"
   },
@@ -192928,7 +193081,7 @@
     "item_name": "WALKING STICK",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-08-08",
     "receiving_time": "21:10:00"
   },
@@ -195718,7 +195871,7 @@
     "item_name": "HAND BAG",
     "description": "BANK CHEQUE OF RAVULA VISHWANATH REDDY",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-07-25",
     "receiving_time": "21:15:00"
   },
@@ -196051,7 +196204,7 @@
     "item_name": "POUCH",
     "description": "ORNAMENTS",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-07-24",
     "receiving_time": "12:00:00"
   },
@@ -198049,7 +198202,7 @@
     "item_name": "MOBILE BASIC",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-07-14",
     "receiving_time": "12:00:00"
   },
@@ -198841,7 +198994,7 @@
     "item_name": "SPECTACLE",
     "description": "",
     "quantity": null,
-    "station": "SHIVAJI STADIUM ",
+    "station": "SHIVAJI STADIUM",
     "receiving_date": "2022-07-12",
     "receiving_time": "13:15:00"
   },
@@ -199375,158 +199528,5 @@
     "station": "NOIDA CITY CENTRE",
     "receiving_date": "2022-07-09",
     "receiving_time": "20:55:00"
-  },
-  {
-    "id": 3287,
-    "item_name": "HAND BAG",
-    "description": "SPECTACLES EARPHONE HAIR BAND MASKS TOWEL SOAP",
-    "quantity": null,
-    "station": "LAL QUILA",
-    "receiving_date": "2022-07-09",
-    "receiving_time": "18:35:00"
-  },
-  {
-    "id": 3288,
-    "item_name": "BAG",
-    "description": "PLASTIC COTAINER CLOTHS KEY CHAINS AADHAR OF RAM SUREMANI",
-    "quantity": null,
-    "station": "CHIRAG DELHI",
-    "receiving_date": "2022-07-09",
-    "receiving_time": "21:00:00"
-  },
-  {
-    "id": 3289,
-    "item_name": "BOTTLE",
-    "description": "",
-    "quantity": null,
-    "station": "LAL QUILA",
-    "receiving_date": "2022-07-09",
-    "receiving_time": "22:30:00"
-  },
-  {
-    "id": 3311,
-    "item_name": "BAG",
-    "description": "PAN AADHAR PASSPORT SPECATACLES OF SATISH RAM",
-    "quantity": null,
-    "station": "NAWADA",
-    "receiving_date": "2022-07-09",
-    "receiving_time": "13:13:00"
-  },
-  {
-    "id": 3195,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "NOIDA ELECTRONIC CITY",
-    "receiving_date": "2022-07-08",
-    "receiving_time": "21:00:00"
-  },
-  {
-    "id": 3244,
-    "item_name": "PURSE",
-    "description": "RC DL PAN BANK CARDS ID CARD METRO CARD OF SUJIT MONDAL",
-    "quantity": null,
-    "station": "KASHMERE GATE",
-    "receiving_date": "2022-07-08",
-    "receiving_time": "22:50:00"
-  },
-  {
-    "id": 3245,
-    "item_name": "HANGER",
-    "description": "",
-    "quantity": null,
-    "station": "SHIV VIHAR",
-    "receiving_date": "2022-07-08",
-    "receiving_time": "11:00:00"
-  },
-  {
-    "id": 3246,
-    "item_name": "PENDRIVE",
-    "description": "",
-    "quantity": null,
-    "station": "YAMUNA BANK",
-    "receiving_date": "2022-07-08",
-    "receiving_time": "12:30:00"
-  },
-  {
-    "id": 3248,
-    "item_name": "WATCH",
-    "description": "",
-    "quantity": null,
-    "station": "NIRMAN VIHAR",
-    "receiving_date": "2022-07-08",
-    "receiving_time": "11:55:00"
-  },
-  {
-    "id": 3249,
-    "item_name": "JUTE BAG",
-    "description": "BOTTLE LUNCH BOX",
-    "quantity": null,
-    "station": "ROHINI SECTOR - 18, 19",
-    "receiving_date": "2022-07-08",
-    "receiving_time": "19:00:00"
-  },
-  {
-    "id": 3252,
-    "item_name": "UMBRELLA",
-    "description": "",
-    "quantity": null,
-    "station": "MALVIYA NAGAR",
-    "receiving_date": "2022-07-08",
-    "receiving_time": "10:00:00"
-  },
-  {
-    "id": 3253,
-    "item_name": "MOBILE ,NOTE BOOK",
-    "description": "",
-    "quantity": null,
-    "station": "MAUJPUR-BABARPUR",
-    "receiving_date": "2022-07-08",
-    "receiving_time": "12:00:00"
-  },
-  {
-    "id": 3256,
-    "item_name": "LUNCH BOX ,BAG WITH SPECTACLE COVER",
-    "description": "",
-    "quantity": null,
-    "station": "CENTRAL SECRETARIAT",
-    "receiving_date": "2022-07-08",
-    "receiving_time": "21:30:00"
-  },
-  {
-    "id": 3258,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "LAJPAT NAGAR",
-    "receiving_date": "2022-07-08",
-    "receiving_time": "20:35:00"
-  },
-  {
-    "id": 3262,
-    "item_name": "EARBUDS CASE",
-    "description": "",
-    "quantity": null,
-    "station": "SANT SURDAS (SIHI)",
-    "receiving_date": "2022-07-08",
-    "receiving_time": "09:40:00"
-  },
-  {
-    "id": 3265,
-    "item_name": "LUNCH BOX",
-    "description": "",
-    "quantity": null,
-    "station": "AIIMS",
-    "receiving_date": "2022-07-08",
-    "receiving_time": "21:30:00"
-  },
-  {
-    "id": 3266,
-    "item_name": "POLY BAG",
-    "description": "APRON TIFFIN",
-    "quantity": null,
-    "station": "AIIMS",
-    "receiving_date": "2022-07-08",
-    "receiving_time": "21:30:00"
   }
 ]
